@@ -774,3 +774,4 @@ _RegisterApplication(), FAILED TO establish the default connection to the Window
 _RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
 _RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
 _RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680570364679	geckodriver	INFO	Listening on 127.0.0.1:49595

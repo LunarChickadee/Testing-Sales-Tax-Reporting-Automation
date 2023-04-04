@@ -17,19 +17,26 @@ def get_data(url)->list:
 
     #trees_links = driver.find_elements(By.ID, "search-intro")
 
-    trees_cats = driver.find_elements(By.CLASS_NAME,"cat-name")
+    cat = driver.find_element(By.CLASS_NAME,"cat-name")
 
-    for cat in trees_cats:
-        cat.click()
-        title = driver.current_url
-        print(title)
-        driver.back()
-        time.sleep(2)
+    cat.click()
+
+    item = driver.find_element(By.CLASS_NAME,"name")
+
+    item.click()
+
+    time.sleep(2)
+
+    item_name = driver.find_element(By.XPATH, "//h1[@class='product-name']").text
+    
+    print(item_name)
+    
+
+  
 
 
 
-
-    #driver.quit()
+    driver.quit()
 
 
 
