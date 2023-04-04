@@ -35,9 +35,9 @@ def get_data(url)->list:
 
     item_name = driver.find_element(By.XPATH, "//h1[@class='product-name']")
 
-    item_text = item_name
+    #item_text = item_name
     
-    print(item_text.get_attribute('innerText'))
+    print(item_name.get_attribute('innerText'))
 
     price_line = driver.find_element(By.XPATH,"//td[@class='pricecell']")
 
