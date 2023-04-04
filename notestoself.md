@@ -9,3 +9,6 @@ current links:
 finding the xpath: https://www.browserstack.com/guide/find-element-by-xpath-in-selenium'
 
 getting text: https://www.selenium.dev/documentation/webdriver/elements/information/#text-content
+
+
+gettingcsv contains the method of adding our pieces and putting them into a pandas dataframe
