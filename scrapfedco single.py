@@ -27,9 +27,18 @@ def get_data(url)->list:
 
     time.sleep(2)
 
-    item_name = driver.find_element(By.XPATH, "//h1[@class='product-name']").text
+    item_name = driver.find_element(By.XPATH, "//h1[@class='product-name']")
+
+    item_text = item_name
     
-    print(item_name)
+    print(item_text.get_attribute('innerText'))
+
+    price_line = driver.find_element(By.XPATH,"//td[@class='pricecell']")
+
+    print(price_line.text)
+
+    #next step is to take this, put it in a loop, and export the contents to a csv using
+    ## https://www.geeksforgeeks.org/scrape-and-save-table-data-in-csv-file-using-selenium-in-python/?ref=rp
     
 
   
