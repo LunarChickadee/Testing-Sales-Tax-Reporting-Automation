@@ -30,7 +30,7 @@ while(1):
 		templist.append(Table_dict)
 		df = pd.DataFrame(templist)
 		
-		r + = 1
+		r += 1
 		
 	# if there are no more table data to scrape
 	except NoSuchElementException:
