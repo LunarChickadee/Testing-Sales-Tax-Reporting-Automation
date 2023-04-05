@@ -4,6 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import StaleElementReferenceException
 import time
 import pandas as pd
 from selenium.webdriver.support.ui import Select
@@ -13,7 +14,7 @@ from selenium.webdriver.support.ui import Select
 def get_data(url)->list:
     browser_options = Options()
     browser_options.add_experimental_option("detach", True)
-    #brower_options.headless = True
+    #browser_options.headless = True
 
     driver = webdriver.Chrome(options=browser_options)
     driver.get(url)
@@ -22,6 +23,7 @@ def get_data(url)->list:
 
     trees_cats = driver.find_elements(By.CLASS_NAME,"cat-name")
 
+    list_of_trees = []
 
     while(1):
         try:
@@ -34,6 +36,7 @@ def get_data(url)->list:
 
                 for item in item_list:    
                     #click on specific item
+                    time.sleep(1)
                     item.click()
                     time.sleep(2)
 
@@ -41,22 +44,32 @@ def get_data(url)->list:
                     item_name = driver.find_element(By.XPATH, "//h1[@class='product-name']")
                     #text of name
                     #print(item_name.get_attribute('innerText'))
+                    item_name = item_name.get_attribute('innerText')
+                    #get price line list (sometimes there's more than one)
+                    price_lines = driver.find_elements(By.XPATH,"//td[@class='pricecell']")
 
-                    #get price line
-                    price_line = driver.find_element(By.XPATH,"//td[@class='pricecell']")
+                    for price_line in price_lines:
+                        price_line = price_line.text
+                        #text of price line
+                        #print(price_line.text)
+
+                    price_dict = {
+                    'Item': item_name,
+                    'Price Lines': price_line
+                    }
+
+                    list_of_trees.append(price_dict)
                     
-                    #text of price line
-                    #print(price_line.text)
 
+                   
                     driver.back()
                     time.sleep(2)
-        except NoSuchElementException:
+        except (NoSuchElementException, StaleElementReferenceException):
             break
 
-
-
-
-    #driver.quit()
+    df=pd.DataFrame(list_of_trees)
+    df.to_csv('listOfTrees.csv')
+    driver.quit()
 
 
 
