@@ -12,6 +12,7 @@ from selenium.webdriver.support.ui import Select
 
 
 def get_data(url)->list:
+    tic = time.perf_counter()
     browser_options = Options()
     browser_options.add_experimental_option("detach", True)
     #browser_options.headless = True
@@ -25,18 +26,43 @@ def get_data(url)->list:
 
     list_of_trees = []
 
-    while(1):
+    test_count = 0
+
+    test_stop = 5000
+    
+    cat_count = 0
+
+    while(True):
+        
         try:
             for cat in trees_cats:
+                trees_cats = driver.find_elements(By.CLASS_NAME,"cat-name")
                 #click catagory on Fedcoseeds.com/trees
+                time.sleep(2)
+                cat = trees_cats[cat_count]
                 cat.click()
+                cat_count += 1
+                time.sleep(2)
 
                 #get list of catagories page
                 item_list = driver.find_elements(By.CLASS_NAME,"name")
 
-                for item in item_list:    
+                for item in item_list:
+
+                    #to test a specific #of times
+                    test_count += 1   
+                    if test_count == test_stop:
+                        break
+                    
+                    if test_count >= 5000:
+                        continue 
+
+                    print(str(test_count)) 
+
                     #click on specific item
-                    time.sleep(1)
+                    time.sleep(2)
+                    item_text = item.get_attribute('innerText')
+                    print(item_text)
                     item.click()
                     time.sleep(2)
 
@@ -48,31 +74,49 @@ def get_data(url)->list:
                     #get price line list (sometimes there's more than one)
                     price_lines = driver.find_elements(By.XPATH,"//td[@class='pricecell']")
 
+                    loop_count = 0
+
                     for price_line in price_lines:
-                        price_line = price_line.text
+                        
+                        loop_count += 1
+
+                        if test_count >= test_stop:
+                            break
+                        
+                        if loop_count == 1:
+                            price_line_text = price_line.text 
+                        else:
+                            price_line_text = price_line_text + "^" + price_line.text
                         #text of price line
                         #print(price_line.text)
 
                     price_dict = {
                     'Item': item_name,
-                    'Price Lines': price_line
+                    'Price Lines': price_line_text
                     }
-
+                
                     list_of_trees.append(price_dict)
                     
 
-                   
                     driver.back()
                     time.sleep(2)
+
+                driver.back()
+                time.sleep(5)
+
+                if test_count >= test_stop:
+                            break
+                    
+                
         except (NoSuchElementException, StaleElementReferenceException):
             break
-
+    
     df=pd.DataFrame(list_of_trees)
     df.to_csv('listOfTrees.csv')
-    driver.quit()
+    #driver.quit()
 
-
-
+    toc = time.perf_counter()
+    print(f"Scraped in {toc - tic:0.4f} seconds")
 
 
     #for tree_link in trees:
