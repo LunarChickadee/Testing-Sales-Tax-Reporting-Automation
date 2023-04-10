@@ -23,12 +23,13 @@ def get_data(url)->list:
     #trees_links = driver.find_elements(By.ID, "search-intro")
 
     trees_cats = driver.find_elements(By.CLASS_NAME,"cat-name")
+    stop_point = len(trees_cats)-1
 
     list_of_trees = []
 
     test_count = 0
 
-    test_stop = 5000
+    test_stop = 1200
     
     cat_count = 0
 
@@ -38,11 +39,13 @@ def get_data(url)->list:
             for cat in trees_cats:
                 trees_cats = driver.find_elements(By.CLASS_NAME,"cat-name")
                 #click catagory on Fedcoseeds.com/trees
-                time.sleep(2)
-                cat = trees_cats[cat_count]
-                cat.click()
-                cat_count += 1
-                time.sleep(2)
+                try:
+                    cat = trees_cats[cat_count]
+                    cat.click()
+                    time.sleep(2)
+                    cat_count += 1
+                except(IndexError):
+                    break
 
                 #get list of catagories page
                 item_list = driver.find_elements(By.CLASS_NAME,"name")
@@ -60,11 +63,11 @@ def get_data(url)->list:
                     print(str(test_count)) 
 
                     #click on specific item
-                    time.sleep(2)
+                    time.sleep(1)
                     item_text = item.get_attribute('innerText')
                     print(item_text)
                     item.click()
-                    time.sleep(2)
+                    time.sleep(1)
 
                     #get item name
                     item_name = driver.find_element(By.XPATH, "//h1[@class='product-name']")
@@ -102,7 +105,7 @@ def get_data(url)->list:
                     time.sleep(2)
 
                 driver.back()
-                time.sleep(5)
+                time.sleep(3)
 
                 if test_count >= test_stop:
                             break
