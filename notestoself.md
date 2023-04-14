@@ -12,3 +12,6 @@ getting text: https://www.selenium.dev/documentation/webdriver/elements/informat
 
 
 gettingcsv contains the method of adding our pieces and putting them into a pandas dataframe
+
+    
+//li[@class="last"]
