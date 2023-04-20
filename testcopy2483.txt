@@ -1,0 +1,1 @@
+['Huron\n7.25', 'Jackson\n7.25', 'Jefferson\n7.25', 'Knox\n7.25', 'Lake\n7.25', 'Lawrence\n7.25', 'Licking\n7.25', 'Licking (COTA)\n7.75', 'Logan\n7.25', 'Lorain\n6.50']

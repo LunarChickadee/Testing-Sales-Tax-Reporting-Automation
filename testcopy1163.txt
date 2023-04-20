@@ -1,0 +1,1 @@
+['Lucas\n7.75', 'Madison\n7.00', 'Mahoning\n7.50', 'Marion\n7.25', 'Medina\n6.75', 'Meigs\n7.25', 'Mercer\n7.25', 'Miami\n7.00', 'Monroe\n7.25', 'Montgomery\n7.50']

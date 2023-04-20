@@ -1,0 +1,1 @@
+['Greene\n6.75', 'Guernsey\n7.25', 'Hamilton\n7.80', 'Hancock\n6.75', 'Hardin\n7.25', 'Harrison\n7.25', 'Henry\n7.25', 'Highland\n7.25', 'Hocking\n7.25', 'Holmes\n7.00']
