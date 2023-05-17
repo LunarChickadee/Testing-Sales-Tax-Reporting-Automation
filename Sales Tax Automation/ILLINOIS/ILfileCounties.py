@@ -5,7 +5,7 @@ import re
 from datetime import date
 
 
-###note you must be in the "continue editing" part of a saved  entry for this to work
+###note, if editing a saved one you must be in the "continue editing" part of a saved  entry for this to work
 ######SETUP
     #left tab, master taxes by state
     #cursor on city names final
@@ -24,7 +24,7 @@ time.sleep(4)
 
 
 #Number of columns to look through
-rows = 77
+rows = 189
 
 #set taxsheet x and y
 taxsheetX =1667
