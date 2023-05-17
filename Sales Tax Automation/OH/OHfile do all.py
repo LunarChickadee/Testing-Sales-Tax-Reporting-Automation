@@ -5,6 +5,9 @@ import re
 from datetime import date
 import os
 
+
+### Setup
+##### Must be in the OH Real Tax Sheet
 time.sleep(7)
 #start on taxable 
 rows = 91

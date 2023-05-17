@@ -24,7 +24,7 @@ time.sleep(4)
 
 
 #Number of columns to look through
-rows = 131
+rows = 1
 
 #set taxsheet x and y
 taxsheetX =1667
@@ -133,7 +133,8 @@ for row in range(rows):
     #check_municipalities.split("CHANGING LOC")
 
     
-    #print(get_names_only)
+    print(get_names_only)
+    print(names_with_fedco)
 
     
     #blank search came up
@@ -173,7 +174,8 @@ for row in range(rows):
         muni_list[0] != text_from_table+" (U)" and 
         muni_list[0] != "DeKalb" and text_from_table != "La Salle" and
         text_from_table != "Godfrey" and text_from_table != "McLean" and
-        text_from_table != "Peoria" and text_from_table != "Barrington Lake"
+        text_from_table != "Peoria" and text_from_table != "Barrington Lake" and
+        text_from_table !="Lake Villa"
         ):
 
         final_dict[text_from_table] = [muni_list]
@@ -190,8 +192,7 @@ for row in range(rows):
             text_from_table == "La Salle" or 
             text_from_table == 'Godfrey' or 
             text_from_table == "Mclean" or
-            text_from_table == 'Lake Villa' or 
-            text_from_table == "Mclean"
+            text_from_table == 'Lake Villa'
             ):
 
             amount_press = 14
@@ -257,7 +258,7 @@ print("Needs to be added"+'\n')
 print(need_adding_list)
         
 
-
+quit()
 
 
 pyautogui.hotkey('ctrl','tab')

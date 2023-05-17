@@ -13,7 +13,7 @@ from datetime import date
     #right tab IL Tax
     #cursor in Filter
 
-    #Start Program, MAKE SURE YOUR ONE TAXSHET
+    #Start Program, MAKE SURE YOUR ON TAXSHET
 today = date.today()
 
 filename = "ILtoAdd"+str(today)
@@ -24,7 +24,7 @@ time.sleep(4)
 
 
 #Number of columns to look through
-rows = 45
+rows = 206
 
 
 municipality_dict = []
