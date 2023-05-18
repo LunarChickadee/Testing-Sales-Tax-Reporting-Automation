@@ -1,0 +1,777 @@
+1680540803248	geckodriver	INFO	Listening on 127.0.0.1:57778
+1680540803768	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileUhXfRb"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680540804591	Marionette	INFO	Marionette enabled
+1680540804759	Marionette	INFO	Listening on port 57804
+Read port: 57804
+WebDriver BiDi listening on ws://127.0.0.1:57779
+1680540804930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileUhXfRb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57779/devtools/browser/ba3900d7-4c95-42c0-a8da-5a353fdcabfc
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680540899915	geckodriver	INFO	Listening on 127.0.0.1:58031
+1680540900437	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofiledaf1jy"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680540900922	Marionette	INFO	Marionette enabled
+1680540901032	Marionette	INFO	Listening on port 58043
+Read port: 58043
+WebDriver BiDi listening on ws://127.0.0.1:58032
+1680540901189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofiledaf1jy/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:58032/devtools/browser/9e7ea0c4-4cd5-4162-9b75-c893b2a2ee9c
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680541115747	geckodriver	INFO	Listening on 127.0.0.1:58560
+1680541116264	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile8XwIv3"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680541116738	Marionette	INFO	Marionette enabled
+1680541117126	Marionette	INFO	Listening on port 58572
+Read port: 58572
+WebDriver BiDi listening on ws://127.0.0.1:58561
+1680541117262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile8XwIv3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58561/devtools/browser/f47116c5-791b-4d72-bd2c-1ead8bf0ca15
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680543430176	geckodriver	INFO	Listening on 127.0.0.1:59440
+1680543430691	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileMRDClS"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543431359	Marionette	INFO	Marionette enabled
+1680543431377	Marionette	INFO	Listening on port 59450
+Read port: 59450
+WebDriver BiDi listening on ws://127.0.0.1:59441
+1680543431544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileMRDClS/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:59441/devtools/browser/c351ff7b-3401-4213-b189-c099d20980fc
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543497538	geckodriver	INFO	Listening on 127.0.0.1:59511
+1680543497551	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilefp2tGq"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543498007	Marionette	INFO	Marionette enabled
+1680543498180	Marionette	INFO	Listening on port 59517
+Read port: 59517
+WebDriver BiDi listening on ws://127.0.0.1:59512
+1680543498316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilefp2tGq/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:59512/devtools/browser/b136ea50-c4a1-4031-bc78-10bf8f0b34b2
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543521082	geckodriver	INFO	Listening on 127.0.0.1:59567
+1680543521093	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileDqaBtT"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543521578	Marionette	INFO	Marionette enabled
+1680543521753	Marionette	INFO	Listening on port 59574
+Read port: 59574
+WebDriver BiDi listening on ws://127.0.0.1:59568
+1680543521879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileDqaBtT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59568/devtools/browser/9633a9d3-39c9-49f0-92e1-471df71d42d3
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543583473	Marionette	INFO	Stopped listening on port 58043
+1680543587310	Marionette	INFO	Stopped listening on port 58572
+1680543589073	Marionette	INFO	Stopped listening on port 59450
+1680543590744	Marionette	INFO	Stopped listening on port 59517
+1680543593600	Marionette	INFO	Stopped listening on port 59574
+1680543625005	geckodriver	INFO	Listening on 127.0.0.1:59658
+1680543625019	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileLB6nkZ"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543625462	Marionette	INFO	Marionette enabled
+1680543625556	Marionette	INFO	Listening on port 59664
+Read port: 59664
+WebDriver BiDi listening on ws://127.0.0.1:59659
+1680543625683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileLB6nkZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59659/devtools/browser/77696543-6d3c-46f5-908b-b774574a8134
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543632492	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543681364	geckodriver	INFO	Listening on 127.0.0.1:59733
+1680543681374	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileuYFydr"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543681809	Marionette	INFO	Marionette enabled
+1680543681905	Marionette	INFO	Listening on port 59737
+Read port: 59737
+WebDriver BiDi listening on ws://127.0.0.1:59734
+1680543682035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileuYFydr/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:59734/devtools/browser/0970328f-36df-4ded-80e6-4193647c710a
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543685836	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1680543733302	geckodriver	INFO	Listening on 127.0.0.1:59806
+1680543733313	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilerBbaFD"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543733790	Marionette	INFO	Marionette enabled
+1680543733891	Marionette	INFO	Listening on port 59812
+Read port: 59812
+WebDriver BiDi listening on ws://127.0.0.1:59807
+1680543734028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilerBbaFD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59807/devtools/browser/f8dd02e0-7914-4622-bdcd-f75a0b6f87bf
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543740737	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1680543785374	geckodriver	INFO	Listening on 127.0.0.1:59867
+1680543785886	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileplMRr0"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680543786327	Marionette	INFO	Marionette enabled
+1680543786419	Marionette	INFO	Listening on port 59877
+Read port: 59877
+WebDriver BiDi listening on ws://127.0.0.1:59868
+1680543786555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileplMRr0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59868/devtools/browser/56d373ef-5860-4e92-8e57-3ab158530d82
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680544028544	geckodriver	INFO	Listening on 127.0.0.1:60015
+1680544029061	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilebDrqQo"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680544029527	Marionette	INFO	Marionette enabled
+1680544029633	Marionette	INFO	Listening on port 60028
+Read port: 60028
+WebDriver BiDi listening on ws://127.0.0.1:60016
+1680544029768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilebDrqQo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60016/devtools/browser/52183ea3-7e92-4fbc-9634-e466d925cb33
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://eservices.dor.nc.gov."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://eservices.dor.nc.gov."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680544224804	geckodriver	INFO	Listening on 127.0.0.1:60164
+1680544225317	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilenhYVxo"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680544225784	Marionette	INFO	Marionette enabled
+1680544226048	Marionette	INFO	Listening on port 60174
+Read port: 60174
+WebDriver BiDi listening on ws://127.0.0.1:60165
+1680544226175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilenhYVxo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60165/devtools/browser/bb251b9c-9266-498f-bffe-082383e04de0
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://eservices.dor.nc.gov."
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+1680544283345	geckodriver	INFO	Listening on 127.0.0.1:60242
+1680544283357	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilestqBOh"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680544283838	Marionette	INFO	Marionette enabled
+1680544284018	Marionette	INFO	Listening on port 60246
+Read port: 60246
+WebDriver BiDi listening on ws://127.0.0.1:60243
+1680544284160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilestqBOh/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:60243/devtools/browser/caadda6a-6acd-4ce8-8d30-d129b96d4d78
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+1680544306835	geckodriver	INFO	Listening on 127.0.0.1:60315
+1680544307353	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilezHNrAZ"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680544307806	Marionette	INFO	Marionette enabled
+1680544308002	Marionette	INFO	Listening on port 60323
+Read port: 60323
+WebDriver BiDi listening on ws://127.0.0.1:60316
+1680544308132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilezHNrAZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60316/devtools/browser/611fb141-f87f-4aee-9a7b-de740e14cae1
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680544525658	geckodriver	INFO	Listening on 127.0.0.1:60571
+1680544526175	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileLoSj1Y"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680544526660	Marionette	INFO	Marionette enabled
+1680544526863	Marionette	INFO	Listening on port 60579
+Read port: 60579
+WebDriver BiDi listening on ws://127.0.0.1:60572
+1680544527007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileLoSj1Y/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:60572/devtools/browser/d0a97c86-747a-409c-a064-123334f405fe
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+1680544607993	geckodriver	INFO	Listening on 127.0.0.1:60656
+1680544608512	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilekFVXOs"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680544608982	Marionette	INFO	Marionette enabled
+1680544609168	Marionette	INFO	Listening on port 60665
+Read port: 60665
+WebDriver BiDi listening on ws://127.0.0.1:60657
+1680544609299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilekFVXOs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60657/devtools/browser/9b215d76-7988-4d95-91c4-930bc23df1ac
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+1680544649263	geckodriver	INFO	Listening on 127.0.0.1:60736
+1680544649275	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofiler0khFI"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680544649738	Marionette	INFO	Marionette enabled
+1680544649929	Marionette	INFO	Listening on port 60740
+Read port: 60740
+WebDriver BiDi listening on ws://127.0.0.1:60737
+1680544650059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofiler0khFI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60737/devtools/browser/5b913033-1150-4aaf-b6d8-e07adf4cb6ac
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680545212517	Marionette	INFO	Stopped listening on port 59664
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680545215149	Marionette	INFO	Stopped listening on port 59737
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680545217609	Marionette	INFO	Stopped listening on port 59812
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680545222700	Marionette	INFO	Stopped listening on port 59877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680545225754	Marionette	INFO	Stopped listening on port 60028
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680545227852	Marionette	INFO	Stopped listening on port 60174
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680545230137	Marionette	INFO	Stopped listening on port 60246
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680545232960	Marionette	INFO	Stopped listening on port 60323
+1680545236147	Marionette	INFO	Stopped listening on port 60579
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680545238377	Marionette	INFO	Stopped listening on port 60665
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680545244960	Marionette	INFO	Stopped listening on port 60740
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680545468243	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1680550837483	geckodriver	INFO	Listening on 127.0.0.1:50020
+1680550837992	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileAvGPi6"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680550838692	Marionette	INFO	Marionette enabled
+1680550838724	Marionette	INFO	Listening on port 50030
+Read port: 50030
+WebDriver BiDi listening on ws://127.0.0.1:50021
+1680550838879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileAvGPi6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50021/devtools/browser/20e96a35-6572-4c9b-9fc7-2dd151e0669d
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680551436221	geckodriver	INFO	Listening on 127.0.0.1:50224
+1680551436736	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilefCZMlJ"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680551437153	Marionette	INFO	Marionette enabled
+1680551437235	Marionette	INFO	Listening on port 50232
+Read port: 50232
+WebDriver BiDi listening on ws://127.0.0.1:50225
+1680551437347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilefCZMlJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50225/devtools/browser/301df255-be87-4a9a-8d47-f6ef60ae0a29
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://eservices.dor.nc.gov/sau/contact.jsp, line 404: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://eservices.dor.nc.gov."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680552801065	geckodriver	INFO	Listening on 127.0.0.1:55714
+1680552801588	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileRShqGW"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680552802118	Marionette	INFO	Marionette enabled
+1680552802138	Marionette	INFO	Listening on port 55732
+Read port: 55732
+WebDriver BiDi listening on ws://127.0.0.1:55715
+1680552802296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileRShqGW/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:55715/devtools/browser/6e84cf7c-f825-4f94-b13a-8c6225876d3c
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680552838573	Marionette	INFO	Stopped listening on port 50232
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1680552840845	Marionette	INFO	Stopped listening on port 55732
+1680553302576	geckodriver	INFO	Listening on 127.0.0.1:57887
+1680553302588	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilex45Bu0"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553303024	Marionette	INFO	Marionette enabled
+1680553303109	Marionette	INFO	Listening on port 57897
+Read port: 57897
+WebDriver BiDi listening on ws://127.0.0.1:57888
+1680553303243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilex45Bu0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57888/devtools/browser/a51dbec1-52c3-49b1-913d-99908d18094a
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553309702	Marionette	INFO	Stopped listening on port 57897
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1680553334204	geckodriver	INFO	Listening on 127.0.0.1:58076
+1680553334216	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileTIrnIj"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553334630	Marionette	INFO	Marionette enabled
+1680553334714	Marionette	INFO	Listening on port 58082
+Read port: 58082
+WebDriver BiDi listening on ws://127.0.0.1:58077
+1680553334837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileTIrnIj/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:58077/devtools/browser/455b2bbe-2ceb-4f19-b619-6b2b0f9edc5a
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553341300	Marionette	INFO	Stopped listening on port 58082
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1680553434877	geckodriver	INFO	Listening on 127.0.0.1:58566
+1680553434886	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileG9hTMa"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553435307	Marionette	INFO	Marionette enabled
+1680553435392	Marionette	INFO	Listening on port 58572
+WebDriver BiDi listening on ws://127.0.0.1:58567
+Read port: 58572
+1680553435644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileG9hTMa/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:58567/devtools/browser/ef2162d9-2e12-4c86-8ba6-d1132eec52a3
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553441795	Marionette	INFO	Stopped listening on port 58572
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1680553574243	geckodriver	INFO	Listening on 127.0.0.1:59206
+1680553574255	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileU69nHf"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553574684	Marionette	INFO	Marionette enabled
+1680553574766	Marionette	INFO	Listening on port 59216
+Read port: 59216
+WebDriver BiDi listening on ws://127.0.0.1:59207
+1680553574884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileU69nHf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59207/devtools/browser/c1e511ea-8cd2-4e1b-92b9-1e4b1f93d228
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553863630	geckodriver	INFO	Listening on 127.0.0.1:60487
+1680553864145	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilefC2a6F"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553864606	Marionette	INFO	Marionette enabled
+1680553864697	Marionette	INFO	Listening on port 60504
+Read port: 60504
+WebDriver BiDi listening on ws://127.0.0.1:60488
+1680553864815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilefC2a6F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60488/devtools/browser/a0d76884-9ec8-411c-bd28-c4b6a6e9b0df
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680553967019	geckodriver	INFO	Listening on 127.0.0.1:61020
+1680553967532	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile7djIhx"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553967979	Marionette	INFO	Marionette enabled
+1680553968069	Marionette	INFO	Listening on port 61034
+Read port: 61034
+WebDriver BiDi listening on ws://127.0.0.1:61021
+1680553968191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile7djIhx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61021/devtools/browser/946fc859-64cf-43b5-ac57-3c84bfbff888
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553998672	geckodriver	INFO	Listening on 127.0.0.1:61215
+1680553999189	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileZauSFd"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680553999648	Marionette	INFO	Marionette enabled
+1680553999752	Marionette	INFO	Listening on port 61229
+Read port: 61229
+WebDriver BiDi listening on ws://127.0.0.1:61216
+1680553999880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileZauSFd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61216/devtools/browser/d5ead6a9-3af6-4c0c-8f6f-bdfbdafc9753
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680554087405	geckodriver	INFO	Listening on 127.0.0.1:61662
+1680554087922	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileJZ1vFB"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680554088357	Marionette	INFO	Marionette enabled
+1680554088448	Marionette	INFO	Listening on port 61674
+Read port: 61674
+WebDriver BiDi listening on ws://127.0.0.1:61663
+1680554088588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileJZ1vFB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61663/devtools/browser/8ebf4359-031b-4c3e-9249-10a1cb47b5c5
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680554119581	geckodriver	INFO	Listening on 127.0.0.1:61861
+1680554120093	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileb4EtNX"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680554120555	Marionette	INFO	Marionette enabled
+1680554120668	Marionette	INFO	Listening on port 61877
+Read port: 61877
+WebDriver BiDi listening on ws://127.0.0.1:61862
+1680554120796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileb4EtNX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61862/devtools/browser/37f59ccd-0f9d-4948-927b-e536bebe0f16
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: https://fedcoseeds.com/js/fedco-search-intro.min.js?id=af887c771c051ce5680579be65dcb6aa, line 1: TypeError: $(...).lazyload is not a function
+1680554188768	geckodriver	INFO	Listening on 127.0.0.1:62232
+1680554189284	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileSbF2cp"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680554189713	Marionette	INFO	Marionette enabled
+1680554189802	Marionette	INFO	Listening on port 62244
+WebDriver BiDi listening on ws://127.0.0.1:62233
+Read port: 62244
+1680554190068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileSbF2cp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62233/devtools/browser/80c51346-e4b0-4381-8d10-bfbd55335619
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680554224071	geckodriver	INFO	Listening on 127.0.0.1:62444
+1680554224583	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile68IiLq"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680554225024	Marionette	INFO	Marionette enabled
+1680554225119	Marionette	INFO	Listening on port 62456
+Read port: 62456
+WebDriver BiDi listening on ws://127.0.0.1:62445
+1680554225238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile68IiLq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62445/devtools/browser/8278135e-0c30-417d-9f23-38709a8eb9c8
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680554497292	geckodriver	INFO	Listening on 127.0.0.1:63701
+1680554497814	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile5y8BHY"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680554498256	Marionette	INFO	Marionette enabled
+1680554498363	Marionette	INFO	Listening on port 63715
+Read port: 63715
+WebDriver BiDi listening on ws://127.0.0.1:63702
+1680554498486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile5y8BHY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63702/devtools/browser/37528176-fc17-464b-9f54-858c12733fb6
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: https://fedcoseeds.com/js/fedco-search-intro.min.js?id=af887c771c051ce5680579be65dcb6aa, line 1: TypeError: $(...).lazyload is not a function
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680554540674	geckodriver	INFO	Listening on 127.0.0.1:63952
+1680554540686	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileqUCNVI"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680554541138	Marionette	INFO	Marionette enabled
+1680554541249	Marionette	INFO	Listening on port 63963
+Read port: 63963
+WebDriver BiDi listening on ws://127.0.0.1:63953
+1680554541379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileqUCNVI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63953/devtools/browser/1fdc8384-b018-485e-ad62-b6374f5bb06c
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680554641102	geckodriver	INFO	Listening on 127.0.0.1:64458
+1680554641627	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileu0hvWB"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680554642096	Marionette	INFO	Marionette enabled
+1680554642215	Marionette	INFO	Listening on port 64470
+Read port: 64470
+WebDriver BiDi listening on ws://127.0.0.1:64459
+1680554642348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileu0hvWB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64459/devtools/browser/24e9b584-e38f-4972-b644-8b477b88fa6f
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1680555367419	geckodriver	INFO	Listening on 127.0.0.1:51719
+1680555367934	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile9bPKyJ"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680555368574	Marionette	INFO	Marionette enabled
+1680555368609	Marionette	INFO	Listening on port 51731
+Read port: 51731
+WebDriver BiDi listening on ws://127.0.0.1:51720
+1680555368814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile9bPKyJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51720/devtools/browser/7e2b446a-2565-4ee8-90d0-e9dd225a1ab0
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680555375341	Marionette	INFO	Stopped listening on port 51731
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1680555463317	geckodriver	INFO	Listening on 127.0.0.1:52186
+1680555463330	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilePOjV4L"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680555463749	Marionette	INFO	Marionette enabled
+1680555463836	Marionette	INFO	Listening on port 52196
+Read port: 52196
+WebDriver BiDi listening on ws://127.0.0.1:52187
+1680555463956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilePOjV4L/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:52187/devtools/browser/72d0d345-c80f-435b-bdaf-7c2c095e97a1
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680555494127	geckodriver	INFO	Listening on 127.0.0.1:52381
+1680555494651	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilekKB0m1"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680555495098	Marionette	INFO	Marionette enabled
+1680555495258	Marionette	INFO	Listening on port 52397
+Read port: 52397
+WebDriver BiDi listening on ws://127.0.0.1:52382
+1680555495378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilekKB0m1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52382/devtools/browser/1c0ec51a-4c7a-4dbb-8569-ac48c83f2577
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: https://fedcoseeds.com/js/fedco-search-intro.min.js?id=af887c771c051ce5680579be65dcb6aa, line 1: TypeError: $(...).lazyload is not a function
+1680555530238	geckodriver	INFO	Listening on 127.0.0.1:52597
+1680555530752	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileevT3Bx"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680555531211	Marionette	INFO	Marionette enabled
+1680555531387	Marionette	INFO	Listening on port 52614
+Read port: 52614
+WebDriver BiDi listening on ws://127.0.0.1:52598
+1680555531512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileevT3Bx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52598/devtools/browser/e8849272-ead1-4dde-b4ae-f265d185e2e8
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680555546767	geckodriver	INFO	Listening on 127.0.0.1:52733
+1680555546780	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilexMtDx0"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680555547226	Marionette	INFO	Marionette enabled
+1680555547389	Marionette	INFO	Listening on port 52739
+Read port: 52739
+WebDriver BiDi listening on ws://127.0.0.1:52734
+1680555547504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofilexMtDx0/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:52734/devtools/browser/1c335872-c068-42af-8622-7790081eb27c
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript error: https://fedcoseeds.com/js/fedco-search-intro.min.js?id=af887c771c051ce5680579be65dcb6aa, line 1: TypeError: $(...).lazyload is not a function
+1680555554701	Marionette	INFO	Stopped listening on port 52739
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1680555576634	geckodriver	INFO	Listening on 127.0.0.1:52919
+1680555576646	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile2NbTfJ"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680555577073	Marionette	INFO	Marionette enabled
+1680555577174	Marionette	INFO	Listening on port 52929
+Read port: 52929
+WebDriver BiDi listening on ws://127.0.0.1:52920
+1680555577298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofile2NbTfJ/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:52920/devtools/browser/9da98ab4-3822-43ac-be02-393d3a86bc8b
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680555583125	Marionette	INFO	Stopped listening on port 52929
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1680555648057	geckodriver	INFO	Listening on 127.0.0.1:53280
+1680555648070	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileq5sSEo"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680555648670	Marionette	INFO	Marionette enabled
+1680555648703	Marionette	INFO	Listening on port 53290
+Read port: 53290
+WebDriver BiDi listening on ws://127.0.0.1:53281
+1680555648917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/ty/nr5z0kr95qx3sw1p026qdz080000gn/T/rust_mozprofileq5sSEo/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://127.0.0.1:53281/devtools/browser/c4116c04-b6c7-474f-9b15-9fdc175005e5
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1680570364679	geckodriver	INFO	Listening on 127.0.0.1:49595

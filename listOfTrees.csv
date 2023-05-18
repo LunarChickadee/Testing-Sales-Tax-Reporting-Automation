@@ -1,0 +1,2003 @@
+,Item,Price Lines
+0,"
+        Api Etoile        Apple            ","102A: on standard stock, 1 for $38.50"
+1,"
+        Burgundy        Apple            ","114B: on Bud 118 semi-dwarfing stock, 1 for $38.50^114C: on M111 semi-dwarfing stock, 1 for $38.50"
+2,"
+        Canada Reinette        Apple            ","116A: on standard stock, 1 for $38.50"
+3,"
+        Charette        Apple            ","118A: on standard stock, 1 for $38.50"
+4,"
+        Childs        Apple            ","121A: on standard stock, 1 for $38.50"
+5,"
+        Cora’s Grand Greening        Apple            ","123A: on standard stock, 1 for $38.50"
+6,"
+        Duchess of Oldenburg        Apple            ","128A: on standard stock, 1 for $38.50^128B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+7,"
+        Frostbite        Apple            ","133A: on standard stock, 1 for $38.50^133B: on Bud 118 semi-dwarfing stock, 1 for $38.50^133C: on M111 semi-dwarfing stock, 1 for $38.50^133D: on dwarf rootstock, 1 for $38.50"
+8,"
+        Golden Russet        Apple            ","137A: on standard stock, 1 for $38.50^137C: on M111 semi-dwarfing stock, 1 for $38.50^137D: on Bud 9 dwarfing stock, 1 for $38.50"
+9,"
+        Gravenstein        Apple            ","139A: on standard stock, 1 for $38.50"
+10,"
+        Iowa Beauty        Apple            ","194A: on standard stock, 1 for $38.50"
+11,"
+        Macoun        Apple            ","154A: on standard stock, 1 for $38.50"
+12,"
+        Opalescent        Apple            ","161B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+13,"
+        Pink Duke        Apple            ","191A: on standard stock, 1 for $38.50"
+14,"
+        Ribston Pippin        Apple            ","169A: on standard stock, 1 for $38.50^169C: on M111 semi-dwarfing stock, 1 for $38.50"
+15,"
+        Rubicon        Apple            ","172C: on M111 semi-dwarfing stock, 1 for $38.50"
+16,"
+        Summer Sweeting        Apple            ","176A: on standard stock, 1 for $38.50"
+17,"
+        Wealthy        Apple            ","181A: on standard stock, 1 for $38.50^181B: on Bud 118 semi-dwarfing stock, 1 for $38.50^181C: on M111 semi-dwarfing stock, 1 for $38.50"
+18,"
+        Winekist        Apple            ","186C: on M111 semi-dwarfing stock, 1 for $38.50"
+19,"
+        Wolf River        Apple            ","187A: on standard stock, 1 for $38.50"
+20,"
+        Otterson        Cider Apple            ","220C: on M111 semi-dwarfing stock, 1 for $38.50"
+21,"
+        ‘Sweet Cherry Pie’        Pie Cherry            ",327A: 1 for $38.50
+22,"
+        Leningrad        Sweet Cherry            ",316A: 1 for $38.50
+23,"
+        Eastern White Cedar                    ",467A: 5 for $22.50
+24,"
+        Dawn Redwood                    ",462A: 1 for $20.00
+25,"
+        ‘Sussi’        Lingonberry            ",593A: 1 for $22.50
+26,"
+        Hybrid Chestnut Seedling                    ",434A: 1 for $18.50
+27,"
+        Hybrid Hazelnut Seedling                    ",432A: 1 for $17.50
+28,"
+        Duchesse de Berry d’Ete        European Pear            ",279A: 1 for $38.00
+29,"
+        Louise Bonne d’Avranches        European Pear            ",283A: 1 for $38.00
+30,"
+        Superfin        European Pear            ",287A: 1 for $38.00
+31,"
+        Gin        Perry Pear            ",299A: 1 for $38.00
+32,"
+        Stanley        European Plum            ",361A: 1 for $37.75
+33,"
+        South Dakota        Hybrid Plum            ",352A: 1 for $37.75
+34,"
+        Otterson        Apple Scionwood            ","L931A: 8"" scionwood stick, 1 for $6.00^L931B: scionwood by the foot (10' minimum), 1 for $5.50"
+35,"
+        Ginkgo                    ",459A: 1 for $18.00
+36,"
+        Eastern Hophornbeam                    ",449A: 1 for $21.00
+37,"
+        Tuliptree                    ",444A: 1 for $21.00
+38,"
+        Bayberry                    ",458A: 1 for $18.75
+39,"
+        Lemoine        Crabapple            ","248C: on M111 semi-dwarfing stock, 1 for $38.50"
+40,"
+        Solon Hotel        Crabapple            ","250C: on M111 semi-dwarfing stock, 1 for $38.50"
+41,"
+        Mattawamkeag        Elderberry            ",390A: 1 for $22.00
+42,"
+        ‘Illinois Everbearing’ Mulberry                    ",512A: 1 for $44.00
+43,"
+        ‘Aromatnaya’        Quince            ",491A: 1 for $45.00
+44,"
+        ‘Pineapple’        Quince            ",493A: 1 for $45.00
+45,"
+        ‘Smyrna’        Quince            ",492A: 1 for $45.00
+46,"
+        ‘Belle de Crecy’        Rose            ",523A: 1 for $22.75
+47,"
+        ‘Fantin Latour’        Rose            ",522A: 1 for $22.75
+48,"
+        ‘Quadra’        Rose            ",530A: 1 for $22.75
+49,"
+        ‘Scharlachglut’        Rose            ",525A: 1 for $22.75
+50,"
+        Brunswick        Lowbush Blueberry            ",375A: 1 for $18.00
+51,"
+        Nelson        Blackberry            ",410A: 5 for $35.75
+52,"
+        Eastern White Cedar                    ",467A: 5 for $22.50
+53,"
+        Balsam Fir                    ",461A: 5 for $22.00
+54,"
+        Eastern White Pine                    ",466A: 5 for $23.50
+55,"
+        Colorado Blue Spruce                    ",465A: 5 for $23.50
+56,"
+        White Spruce                    ",464A: 5 for $23.50
+57,"
+        Bearberry                    ",577A: 1 for $22.00
+58,"
+        ‘Stevens’ American Cranberry                    ",583A: 1 for $23.00
+59,"
+        Wintergreen                    ",L582A: 1 for $10.50^L582B: 3 for $24.00
+60,"
+        Arnica chamissonis                 - Organic    ",L746A: 1 for $9.50^L746B: 2 for $16.50^L746C: 3 for $22.25
+61,"
+        Wild Bergamot        Bee Balm         - Organic    ",L757A: 1 for $8.75^L757B: 3 for $22.75
+62,"
+        Black Cohosh                    ",L743A: 1 for $11.25^L743B: 2 for $19.50^L743C: 3 for $26.50
+63,"
+        Boneset                 - Organic    ",L750A: 1 for $9.50^L750B: 2 for $16.50^L750C: 3 for $22.25
+64,"
+        Purple Coneflower        Echinacea            ",L749A: 1 for $9.50^L749B: 2 for $16.50^L749C: 3 for $22.25
+65,"
+        Yellow Coneflower        Echinacea         - Organic    ",L748A: 1 for $8.00^L748B: 2 for $13.75^L748C: 3 for $18.50
+66,"
+        Mountain Mint                 - Organic    ",L759A: 1 for $9.50^L759B: 2 for $16.50^L759C: 3 for $22.25
+67,"
+        Sweetflag                    ",L742A: 3 for $24.00
+68,"
+        Blue Vervain                 - Organic    ",L764A: 1 for $9.50^L764B: 2 for $16.50^L764C: 3 for $22.25
+69,"
+        Common Blue Violet                 - Organic    ",L765A: 1 for $8.00^L765B: 2 for $13.75^L765C: 3 for $18.50
+70,"
+        Butternut                    ",436A: 1 for $21.50
+71,"
+        American Chestnut                    ",433A: 1 for $28.25
+72,"
+        American Hazelnut                    ",435A: 1 for $20.00^435B: 5 for $90.00
+73,"
+        Black Walnut                    ",437A: 1 for $19.00
+74,"
+        Butterfly Weed        Asclepias            ",L690A: 1 for $10.25^L690B: 2 for $18.00^L690C: 3 for $24.25
+75,"
+        Swamp Red Milkweed        Asclepias         - Organic    ",L689A: 1 for $10.25^L689B: 2 for $18.00^L689C: 3 for $24.25
+76,"
+        New England Aster                 - Organic    ",L736A: 1 for $9.50^L736B: 3 for $24.75^L736C: 6 for $44.50
+77,"
+        Smooth Blue Aster                 - Organic    ",L735A: 1 for $9.50^L735B: 3 for $24.75^L735C: 6 for $44.50
+78,"
+        Blue False Indigo        Baptisia            ",L692A: 1 for $9.50^L692B: 3 for $24.75^L692C: 6 for $44.50
+79,"
+        Willow-leaf Bluestar                 - Organic    ",L684A: 1 for $9.50^L684B: 3 for $24.75^L684C: 6 for $44.50
+80,"
+        Wild Columbine                 - Organic    ",L685A: 1 for $9.50^L685B: 3 for $24.75^L685C: 6 for $44.50
+81,"
+        Prairie Coreopsis                 - Organic    ",L693A: 1 for $9.50^L693B: 2 for $16.50^L693C: 3 for $22.25
+82,"
+        Culver’s Root                 - Organic    ",L740A: 1 for $9.50^L740B: 2 for $16.50^L740C: 3 for $22.25
+83,"
+        Leatherwood Fern                    ",L699A: 6 for $26.50
+84,"
+        Maidenhair Fern                    ",L698A: 6 for $23.00
+85,"
+        Royal Fern                    ",L700A: 6 for $26.50
+86,"
+        Foxglove Beardtongue                 - Organic    ",L727A: 1 for $9.50^L727B: 2 for $16.50^L727C: 3 for $22.25
+87,"
+        ‘Orion’        Geranium            ",L702A: 1 for $5.50^L702B: 3 for $14.00^L702C: 6 for $25.00
+88,"
+        Spotted Cranesbill        Geranium            ",L701A: 3 for $10.50^L701B: 6 for $18.00^L701C: 12 for $32.50
+89,"
+        Stiff Goldenrod                 - Organic    ",L719A: 1 for $9.50^L719B: 2 for $16.50^L719C: 3 for $22.25
+90,"
+        Northern Blue Flag        Iris            ",L711A: 3 for $28.50
+91,"
+        Jack-in-the-Pulpit                    ",L686A: 3 for $13.25^L686B: 6 for $23.00^L686C: 12 for $41.25
+92,"
+        Spotted Joe Pye Weed                 - Organic    ",L697A: 1 for $9.50^L697B: 2 for $16.50^L697C: 3 for $22.25
+93,"
+        Floristan White Blazing Star        Liatris            ",L714A: 10 for $6.00^L714B: 20 for $10.25^L714C: 50 for $23.00
+94,"
+        Prairie Blazing Star        Liatris         - Organic    ",L713A: 3 for $23.75
+95,"
+        Purple Blazing Star        Liatris            ",L715A: 10 for $6.00^L715B: 20 for $10.25^L715C: 50 for $23.00
+96,"
+        ‘Blue Moon’ Woodland Phlox                    ",L729A: 1 for $7.50^L729B: 3 for $19.25^L729C: 6 for $34.50
+97,"
+        ‘Blue Paradise’        Phlox            ",L730A: 1 for $6.00^L730B: 3 for $15.75^L730C: 6 for $28.25
+98,"
+        ‘Jeana’        Phlox            ",L731A: 1 for $7.50^L731B: 3 for $19.25^L731C: 6 for $34.50
+99,"
+        White Snakeroot                 - Organic    ",L680A: 1 for $9.50^L680B: 2 for $16.50^L680C: 3 for $22.25
+100,"
+        Ohio Spiderwort                 - Organic    ",L738A: 1 for $9.50^L738B: 3 for $24.75^L738C: 6 for $44.50
+101,"
+        Canadian Wild Ginger                    ",L688A: 3 for $24.75^L688B: 6 for $43.00^L688C: 12 for $77.25
+102,"
+        Paper Birch                    ",447A: 1 for $19.00
+103,"
+        Sweet Birch                    ",446A: 1 for $20.75
+104,"
+        Honeylocust                    ",448A: 1 for $19.00
+105,"
+        Eastern Hophornbeam                    ",449A: 1 for $21.00
+106,"
+        American Linden                    ",455A: 1 for $20.00
+107,"
+        Sugar Maple                    ",445A: 1 for $17.50
+108,"
+        Black Oak                    ",453A: 1 for $16.00
+109,"
+        Bur Oak                    ",452A: 1 for $21.00
+110,"
+        Swamp White Oak                    ",451A: 1 for $21.00
+111,"
+        White Oak                    ",450A: 1 for $21.00
+112,"
+        Tuliptree                    ",444A: 1 for $21.00
+113,"
+        Carolina Allspice                    ",480A: 1 for $19.25
+114,"
+        Bayberry                    ",458A: 1 for $18.75
+115,"
+        Beach Plum                    ",515A: 1 for $18.75^515B: 5 for $80.00
+116,"
+        Buttonbush                    ",481A: 1 for $19.00
+117,"
+        ‘Brilliantissima’        Chokeberry            ",474A: 1 for $18.75
+118,"
+        ‘Viking’ Black Chokeberry                    ",476A: 1 for $18.75
+119,"
+        Black Chokeberry Seedling                    ",477A: 1 for $18.75^477B: 5 for $82.50
+120,"
+        Red Chokeberry Seedling                    ",475A: 1 for $18.75
+121,"
+        Gray Dogwood                    ",487A: 1 for $17.00
+122,"
+        Pagoda Dogwood                    ",484A: 1 for $20.50
+123,"
+        Redosier Dogwood                    ",488A: 1 for $18.00^488B: 5 for $80.00
+124,"
+        Silky Dogwood                    ",485A: 1 for $18.50
+125,"
+        Elderberry Seedling                    ",386A: 1 for $22.00
+126,"
+        Mattawamkeag        Elderberry            ",390A: 1 for $22.00
+127,"
+        Northern Bush Honeysuckle                    ",496A: 1 for $18.75
+128,"
+        ‘Michigan’ Black Huckleberry                    ",377A: 1 for $18.00
+129,"
+        ‘Alice’        Hydrangea            ",500A: 1 for $23.50
+130,"
+        ‘Regent’ Juneberry                    ",472A: 1 for $19.25
+131,"
+        ‘Blizzard’ Mockorange                    ",514A: 1 for $17.00
+132,"
+        Redbud                    ",482A: 1 for $21.00
+133,"
+        Allegheny Serviceberry                    ",473A: 1 for $18.75
+134,"
+        American Smoketree                    ",489A: 1 for $21.75
+135,"
+        White Snowberry                    ",552A: 1 for $19.00
+136,"
+        Spicebush                    ",504A: 1 for $20.50
+137,"
+        Steeplebush                    ",551A: 1 for $19.25
+138,"
+        Fragrant Sumac                    ",517A: 1 for $18.75
+139,"
+        ‘Ruby Spice’ Summersweet                    ",483A: 1 for $18.50
+140,"
+        ‘Shasta’ Doublefile Viburnum                    ",564A: 1 for $17.00
+141,"
+        Black Haw        Viburnum            ",565A: 1 for $19.00
+142,"
+        Highbush Cranberry Seedling        Viburnum            ",563A: 1 for $19.00
+143,"
+        Nannyberry        Viburnum            ",562A: 1 for $18.75
+144,"
+        Northern Arrowwood        Viburnum            ",561A: 1 for $18.50
+145,"
+        Northern Wild Raisin        Viburnum            ",560A: 1 for $23.00
+146,"
+        ‘Henry’s Garnet’ Virginia Sweetspire                    ",503A: 1 for $18.50
+147,"
+        ‘Afterglow’        Winterberry            ",505A: 1 for $19.00
+148,"
+        ‘Jim Dandy’        Winterberry            ",502A: 1 for $19.00
+149,"
+        ‘Red Sprite’        Winterberry            ",501A: 1 for $19.00
+150,"
+        Witch Hazel                    ",499A: 1 for $18.25
+151,"
+        Groundnut                    ",L422A: 10 for $17.00
+152,"
+        ‘Dropmore Scarlet’ Honeysuckle                    ",428A: 1 for $18.75
+153,"
+        Eastern White Cedar                    ",467A: 5 for $22.50
+154,"
+        Balsam Fir                    ",461A: 5 for $22.00
+155,"
+        Eastern White Pine                    ",466A: 5 for $23.50
+156,"
+        White Spruce                    ",464A: 5 for $23.50
+157,"
+        Chives                 - Organic    ",L744A: 3 for $19.00
+158,"
+        Oregano                 - Organic    ",L758A: 1 for $8.75
+159,"
+        Garden Sage                 - Organic    ",L760A: 1 for $9.50
+160,"
+        German Winter Thyme                 - Organic    ",L762A: 1 for $8.75^L762B: 2 for $15.25^L762C: 3 for $20.50
+161,"
+        ‘Mary Washington’        Asparagus            ",L596A: 25 for $33.50
+162,"
+        ‘Purple Passion’        Asparagus            ",L597A: 25 for $33.50
+163,"
+        ‘Big Top’ Horseradish                    ",L595A: 5 for $21.00
+164,"
+        Rhubarb Seedling                    ",L598A: 1 for $14.00
+165,"
+        Bearberry                    ",577A: 1 for $22.00
+166,"
+        ‘Stevens’ American Cranberry                    ",583A: 1 for $23.00
+167,"
+        ‘Erntedank’        Lingonberry            ",586A: 1 for $22.50
+168,"
+        ‘Erntesegen’        Lingonberry            ",587A: 1 for $22.50
+169,"
+        ‘Linnea’        Lingonberry            ",588A: 1 for $22.50
+170,"
+        ‘Magenta’        Lingonberry            ",589A: 1 for $22.50
+171,"
+        ‘Red Pearl’        Lingonberry            ",590A: 1 for $22.50
+172,"
+        ‘Red Sunset’        Lingonberry            ",591A: 1 for $22.50
+173,"
+        ‘Ruby’        Lingonberry            ",594A: 1 for $22.50
+174,"
+        ‘Sussi’        Lingonberry            ",593A: 1 for $22.50
+175,"
+        Wintergreen                    ",L582A: 1 for $10.50^L582B: 3 for $24.00
+176,"
+        Stinging Nettle                 - Organic    ",L763A: 1 for $8.75^L763B: 2 for $15.25^L763C: 3 for $20.50
+177,"
+        Common Blue Violet                 - Organic    ",L765A: 1 for $8.00^L765B: 2 for $13.75^L765C: 3 for $18.50
+178,"
+        Butternut                    ",436A: 1 for $21.50
+179,"
+        American Chestnut                    ",433A: 1 for $28.25
+180,"
+        Hybrid Chestnut Seedling                    ",434A: 1 for $18.50
+181,"
+        American Hazelnut                    ",435A: 1 for $20.00^435B: 5 for $90.00
+182,"
+        Hybrid Hazelnut Seedling                    ",432A: 1 for $17.50
+183,"
+        Black Walnut                    ",437A: 1 for $19.00
+184,"
+        Carpathian Walnut                    ",438A: 1 for $21.50
+185,"
+        Russian Sage                    ",L728A: 1 for $9.25^L728B: 3 for $24.00
+186,"
+        Canadian Wild Ginger                    ",L688A: 3 for $24.75^L688B: 6 for $43.00^L688C: 12 for $77.25
+187,"
+        Sweet Birch                    ",446A: 1 for $20.75
+188,"
+        Ginkgo                    ",459A: 1 for $18.00
+189,"
+        American Linden                    ",455A: 1 for $20.00
+190,"
+        Sugar Maple                    ",445A: 1 for $17.50
+191,"
+        Black Oak                    ",453A: 1 for $16.00
+192,"
+        Bur Oak                    ",452A: 1 for $21.00
+193,"
+        Swamp White Oak                    ",451A: 1 for $21.00
+194,"
+        White Oak                    ",450A: 1 for $21.00
+195,"
+        Carolina Allspice                    ",480A: 1 for $19.25
+196,"
+        Beach Plum                    ",515A: 1 for $18.75^515B: 5 for $80.00
+197,"
+        ‘Brilliantissima’        Chokeberry            ",474A: 1 for $18.75
+198,"
+        ‘Viking’ Black Chokeberry                    ",476A: 1 for $18.75
+199,"
+        Black Chokeberry Seedling                    ",477A: 1 for $18.75^477B: 5 for $82.50
+200,"
+        Red Chokeberry Seedling                    ",475A: 1 for $18.75
+201,"
+        ‘Brandywine’        Crabapple            ","242C: on M111 semi-dwarfing stock, 1 for $38.50"
+202,"
+        ‘Dolgo’        Crabapple            ","244C: on M111 semi-dwarfing stock, 1 for $38.50"
+203,"
+        Adams No. 1        Elderberry            ",378A: 1 for $22.00
+204,"
+        Bob Gordon        Elderberry            ",379A: 1 for $22.00
+205,"
+        Elderberry Seedling                    ",386A: 1 for $22.00
+206,"
+        Goodbarn        Elderberry            ",380A: 1 for $22.00
+207,"
+        Johns        Elderberry            ",381A: 1 for $22.00
+208,"
+        Korsor        Elderberry            ",387A: 1 for $22.00
+209,"
+        Marge        Elderberry            ",388A: 1 for $22.00
+210,"
+        Mattawamkeag        Elderberry            ",390A: 1 for $22.00
+211,"
+        Nova        Elderberry            ",382A: 1 for $22.00
+212,"
+        Samyl        Elderberry            ",389A: 1 for $22.00
+213,"
+        Scotia        Elderberry            ",383A: 1 for $22.00
+214,"
+        Wyldewood        Elderberry            ",384A: 1 for $22.00
+215,"
+        York        Elderberry            ",385A: 1 for $22.00
+216,"
+        ‘Michigan’ Black Huckleberry                    ",377A: 1 for $18.00
+217,"
+        ‘Regent’ Juneberry                    ",472A: 1 for $19.25
+218,"
+        ‘Illinois Everbearing’ Mulberry                    ",512A: 1 for $44.00
+219,"
+        Nanking Cherry                    ",516A: 1 for $17.75
+220,"
+        ‘Aromatnaya’        Quince            ",491A: 1 for $45.00
+221,"
+        ‘Pineapple’        Quince            ",493A: 1 for $45.00
+222,"
+        ‘Smyrna’        Quince            ",492A: 1 for $45.00
+223,"
+        Redbud                    ",482A: 1 for $21.00
+224,"
+        ‘Officinalis’ Apothecary’s Rose                    ",524A: 1 for $22.75
+225,"
+        ‘Pierette Pavement’        Rose            ",535A: 1 for $22.75
+226,"
+        ‘Tuscany Superb’        Rose            ",526A: 1 for $22.75
+227,"
+        Allegheny Serviceberry                    ",473A: 1 for $18.75
+228,"
+        Spicebush                    ",504A: 1 for $20.50
+229,"
+        ‘Shasta’ Doublefile Viburnum                    ",564A: 1 for $17.00
+230,"
+        Black Haw        Viburnum            ",565A: 1 for $19.00
+231,"
+        Highbush Cranberry Seedling        Viburnum            ",563A: 1 for $19.00
+232,"
+        Nannyberry        Viburnum            ",562A: 1 for $18.75
+233,"
+        Northern Arrowwood        Viburnum            ",561A: 1 for $18.50
+234,"
+        Northern Wild Raisin        Viburnum            ",560A: 1 for $23.00
+235,"
+        Groundnut                    ",L422A: 10 for $17.00
+236,"
+        Almata        Apple            ","101A: on standard stock, 1 for $38.50"
+237,"
+        Api Etoile        Apple            ","102A: on standard stock, 1 for $38.50"
+238,"
+        Arkansas Black        Apple            ","103A: on standard stock, 1 for $38.50"
+239,"
+        Ashmead’s Kernel        Apple            ","104A: on standard stock, 1 for $38.50^104C: on M111 semi-dwarfing stock, 1 for $38.50"
+240,"
+        Baldwin        Apple            ","106A: on standard stock, 1 for $38.50^106C: on M111 semi-dwarfing stock, 1 for $38.50^106D: on Bud 9 dwarfing stock, 1 for $38.50"
+241,"
+        Belle de Boskoop        Apple            ","108A: on standard stock, 1 for $38.50"
+242,"
+        Black Oxford        Apple            ","112A: on standard stock, 1 for $38.50^112C: on M111 semi-dwarfing stock, 1 for $38.50^112D: on Bud 9 dwarfing stock, 1 for $38.50"
+243,"
+        Blue Pearmain        Apple            ","113A: on standard stock, 1 for $38.50"
+244,"
+        Burgundy        Apple            ","114B: on Bud 118 semi-dwarfing stock, 1 for $38.50^114C: on M111 semi-dwarfing stock, 1 for $38.50"
+245,"
+        Calville Blanc d’Hiver        Apple            ","115A: on standard stock, 1 for $38.50^115C: on M111 semi-dwarfing stock, 1 for $38.50"
+246,"
+        Canada Reinette        Apple            ","116A: on standard stock, 1 for $38.50"
+247,"
+        Canadian Strawberry        Apple            ","117A: on standard stock, 1 for $38.50"
+248,"
+        Charette        Apple            ","118A: on standard stock, 1 for $38.50"
+249,"
+        Cherryfield        Apple            ","119A: on standard stock, 1 for $38.50"
+250,"
+        Chestnut        Apple            ","120A: on standard stock, 1 for $38.50"
+251,"
+        Childs        Apple            ","121A: on standard stock, 1 for $38.50"
+252,"
+        Cole’s Quince        Apple            ","122B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+253,"
+        Cora’s Grand Greening        Apple            ","123A: on standard stock, 1 for $38.50"
+254,"
+        Cortland        Apple            ","124A: on standard stock, 1 for $38.50^124C: on M111 semi-dwarfing stock, 1 for $38.50^124D: on Bud 9 dwarfing stock, 1 for $38.50"
+255,"
+        Cox’s Orange Pippin        Apple            ","125A: on standard stock, 1 for $38.50^125C: on M111 semi-dwarfing stock, 1 for $38.50"
+256,"
+        Duchess of Oldenburg        Apple            ","128A: on standard stock, 1 for $38.50^128B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+257,"
+        Esopus Spitzenburg        Apple            ","130A: on standard stock, 1 for $38.50^130C: on M111 semi-dwarfing stock, 1 for $38.50"
+258,"
+        Etter’s Gold        Apple            ","131C: on M111 semi-dwarfing stock, 1 for $38.50"
+259,"
+        Fameuse        Apple            ","132A: on standard stock, 1 for $38.50"
+260,"
+        Frostbite        Apple            ","133A: on standard stock, 1 for $38.50^133B: on Bud 118 semi-dwarfing stock, 1 for $38.50^133C: on M111 semi-dwarfing stock, 1 for $38.50^133D: on dwarf rootstock, 1 for $38.50"
+261,"
+        Gideon        Apple            ","134A: on standard stock, 1 for $38.50"
+262,"
+        Ginger Gold        Apple            ","135A: on standard stock, 1 for $38.50"
+263,"
+        Golden Russet        Apple            ","137A: on standard stock, 1 for $38.50^137C: on M111 semi-dwarfing stock, 1 for $38.50^137D: on Bud 9 dwarfing stock, 1 for $38.50"
+264,"
+        GoldRush        Apple            ","138A: on standard stock, 1 for $38.50^138D: on Bud 9 dwarfing stock, 1 for $38.50"
+265,"
+        Gravenstein        Apple            ","139A: on standard stock, 1 for $38.50"
+266,"
+        Gray Pearmain        Apple            ","140A: on standard stock, 1 for $38.50"
+267,"
+        Green Monster        Apple            ","141A: on standard stock, 1 for $38.50"
+268,"
+        Grimes Golden        Apple            ","142A: on standard stock, 1 for $38.50^142B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+269,"
+        Holstein        Apple            ","143A: on standard stock, 1 for $38.50"
+270,"
+        Honeycrisp        Apple            ","144A: on standard stock, 1 for $38.50^144C: on M111 semi-dwarfing stock, 1 for $38.50^144D: on Bud 9 dwarfing stock, 1 for $38.50"
+271,"
+        Hudson’s Golden Gem        Apple            ","145B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+272,"
+        Hurlbut        Apple            ","146A: on standard stock, 1 for $38.50"
+273,"
+        I-95        Apple            ","147A: on standard stock, 1 for $38.50"
+274,"
+        Iowa Beauty        Apple            ","194A: on standard stock, 1 for $38.50"
+275,"
+        Kandil Sinap        Apple            ","148B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+276,"
+        Keepsake        Apple            ","149C: on M111 semi-dwarfing stock, 1 for $38.50"
+277,"
+        Kennebec Russet        Apple            ","150A: on standard stock, 1 for $38.50"
+278,"
+        King David        Apple            ","151A: on standard stock, 1 for $38.50"
+279,"
+        Koidu Reinette        Apple            ","152C: on M111 semi-dwarfing stock, 1 for $38.50"
+280,"
+        Liberty        Apple            ","153A: on standard stock, 1 for $38.50^153C: on M111 semi-dwarfing stock, 1 for $38.50^153D: on Bud 9 dwarfing stock, 1 for $38.50"
+281,"
+        Macoun        Apple            ","154A: on standard stock, 1 for $38.50"
+282,"
+        McIntosh        Apple            ","156A: on standard stock, 1 for $38.50^156D: on Bud 9 dwarfing stock, 1 for $38.50"
+283,"
+        Northern Spy        Apple            ","159A: on standard stock, 1 for $38.50^159C: on M111 semi-dwarfing stock, 1 for $38.50"
+284,"
+        Norton Greening        Apple            ","160A: on standard stock, 1 for $38.50"
+285,"
+        Opalescent        Apple            ","161B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+286,"
+        Pink Duke        Apple            ","191A: on standard stock, 1 for $38.50"
+287,"
+        Pipsqueak        Apple            ","163B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+288,"
+        Pomme d’Or        Apple            ","164A: on standard stock, 1 for $38.50"
+289,"
+        Pristine        Apple            ","165C: on M111 semi-dwarfing stock, 1 for $38.50"
+290,"
+        Red Astrachan        Apple            ","166A: on standard stock, 1 for $38.50"
+291,"
+        Redfield        Apple            ","167A: on standard stock, 1 for $38.50^167C: on M111 semi-dwarfing stock, 1 for $38.50"
+292,"
+        Rhode Island Greening        Apple            ","168A: on standard stock, 1 for $38.50"
+293,"
+        Ribston Pippin        Apple            ","169A: on standard stock, 1 for $38.50^169C: on M111 semi-dwarfing stock, 1 for $38.50"
+294,"
+        Richmond Pink        Apple            ","170C: on M111 semi-dwarfing stock, 1 for $38.50"
+295,"
+        Roxbury Russet        Apple            ","171A: on standard stock, 1 for $38.50^171C: on M111 semi-dwarfing stock, 1 for $38.50"
+296,"
+        Rubicon        Apple            ","172C: on M111 semi-dwarfing stock, 1 for $38.50"
+297,"
+        Spigold        Apple            ","174A: on standard stock, 1 for $38.50"
+298,"
+        St. Edmund’s Russet        Apple            ","175B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+299,"
+        Stewardship Apple                    ",204A: 1 for $60.00
+300,"
+        Summer Sweeting        Apple            ","176A: on standard stock, 1 for $38.50"
+301,"
+        Sweet Sixteen        Apple            ","177B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+302,"
+        Tetofsky        Apple            ","178A: on standard stock, 1 for $38.50"
+303,"
+        Tolman Sweet        Apple            ","179A: on standard stock, 1 for $38.50"
+304,"
+        Trailman        Apple            ","180B: on Bud 118 semi-dwarfing stock, 1 for $38.50"
+305,"
+        Wealthy        Apple            ","181A: on standard stock, 1 for $38.50^181B: on Bud 118 semi-dwarfing stock, 1 for $38.50^181C: on M111 semi-dwarfing stock, 1 for $38.50"
+306,"
+        Whitney Crab        Apple            ","182A: on standard stock, 1 for $38.50"
+307,"
+        Wickson        Apple            ","183A: on standard stock, 1 for $38.50^183C: on M111 semi-dwarfing stock, 1 for $38.50"
+308,"
+        Williams Pride        Apple            ","184A: on standard stock, 1 for $38.50^184C: on M111 semi-dwarfing stock, 1 for $38.50"
+309,"
+        Windham Russet        Apple            ","185A: on standard stock, 1 for $38.50"
+310,"
+        Winekist        Apple            ","186C: on M111 semi-dwarfing stock, 1 for $38.50"
+311,"
+        Wolf River        Apple            ","187A: on standard stock, 1 for $38.50"
+312,"
+        Yellow Bellflower        Apple            ","188A: on standard stock, 1 for $38.50"
+313,"
+        Zabergau Reinette        Apple            ","189A: on standard stock, 1 for $38.50"
+314,"
+        Zestar        Apple            ","190A: on standard stock, 1 for $38.50^190C: on M111 semi-dwarfing stock, 1 for $38.50^190D: on Bud 9 dwarfing stock, 1 for $38.50"
+315,"
+        Ashton Bitter        Cider Apple            ","205C: on M111 semi-dwarfing stock, 1 for $38.50"
+316,"
+        Beech Hill Bittersweet        Cider Apple            ","206A: on standard stock, 1 for $38.50"
+317,"
+        Binet Rouge        Cider Apple            ","207A: on standard stock, 1 for $38.50"
+318,"
+        Breakwell’s Seedling        Cider Apple            ","208C: on M111 semi-dwarfing stock, 1 for $38.50"
+319,"
+        Cherry Norman        Cider Apple            ","209A: on standard stock, 1 for $38.50"
+320,"
+        Chisel Jersey        Cider Apple            ","210A: on standard stock, 1 for $38.50"
+321,"
+        Dabinett        Cider Apple            ","211C: on M111 semi-dwarfing stock, 1 for $38.50"
+322,"
+        Ellis Bitter        Cider Apple            ","212C: on M111 semi-dwarfing stock, 1 for $38.50"
+323,"
+        Hagloe Crab        Cider Apple            ","213A: on standard stock, 1 for $38.50"
+324,"
+        Harrison        Cider Apple            ","214A: on standard stock, 1 for $38.50^214C: on M111 semi-dwarfing stock, 1 for $38.50"
+325,"
+        Harry Masters Jersey        Cider Apple            ","215C: on M111 semi-dwarfing stock, 1 for $38.50"
+326,"
+        Hewe’s Virginia Crab        Cider Apple            ","216A: on standard stock, 1 for $38.50^216C: on M111 semi-dwarfing stock, 1 for $38.50"
+327,"
+        Kingston Black        Cider Apple            ","217A: on standard stock, 1 for $38.50^217C: on M111 semi-dwarfing stock, 1 for $38.50"
+328,"
+        Old Fertile        Cider Apple            ","219C: on M111 semi-dwarfing stock, 1 for $38.50"
+329,"
+        Otterson        Cider Apple            ","220C: on M111 semi-dwarfing stock, 1 for $38.50"
+330,"
+        Porter’s Perfection        Cider Apple            ","221A: on standard stock, 1 for $38.50^221C: on M111 semi-dwarfing stock, 1 for $38.50"
+331,"
+        Spirit Tree        Cider Apple            ","222A: on standard stock, 1 for $38.50"
+332,"
+        Sweet Alford        Cider Apple            ","223A: on standard stock, 1 for $38.50"
+333,"
+        Tarecap Bitter        Cider Apple            ","224A: on standard stock, 1 for $38.50"
+334,"
+        White Jersey        Cider Apple            ","226A: on standard stock, 1 for $38.50"
+335,"
+        Malus Antonovka        Rootstock            ","257A: late-March to early-May shipment, 10 for $36.00^257B: mid-March shipment, 10 for $36.00"
+336,"
+        Malus Budagovsky 118        Rootstock            ","258A: late-March to early-May shipment, 10 for $36.00^258B: mid-March shipment, 10 for $36.00"
+337,"
+        Malus Budagovsky 9        Rootstock            ","261A: late-March to early-May shipment, 10 for $36.00^261B: mid-March shipment, 10 for $36.00"
+338,"
+        Malus Geneva 11        Rootstock            ","260A: late-March to early-May shipment, 10 for $39.25^260B: mid-March shipment, 10 for $39.25"
+339,"
+        Malus M111        Rootstock            ","259A: late-March to early-May shipment, 10 for $36.00^259B: mid-March shipment, 10 for $36.00"
+340,"
+        American Summer Pearmain        Apple Scionwood            ","L801A: 8"" scionwood stick, 1 for $6.00^L801B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+341,"
+        Arkansas Black        Apple Scionwood            ","L802A: 8"" scionwood stick, 1 for $6.00^L802B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+342,"
+        Ashmead’s Kernel        Apple Scionwood            ","L803A: 8"" scionwood stick, 1 for $6.00^L803B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+343,"
+        Aunt Penelope Winslow        Apple Scionwood            ","L804A: 8"" scionwood stick, 1 for $6.00^L804B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+344,"
+        Baldwin        Apple Scionwood            ","L805A: 8"" scionwood stick, 1 for $6.00^L805B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+345,"
+        Ben Davis        Apple Scionwood            ","L806A: 8"" scionwood stick, 1 for $6.00^L806B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+346,"
+        Binet Rouge        Apple Scionwood            ","L807A: 8"" scionwood stick, 1 for $6.00^L807B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+347,"
+        Black Oxford        Apple Scionwood            ","L808A: 8"" scionwood stick, 1 for $6.00^L808B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+348,"
+        Blenheim Orange        Apple Scionwood            ","L809A: 8"" scionwood stick, 1 for $6.00^L809B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+349,"
+        Blue Pearmain        Apple Scionwood            ","L810A: 8"" scionwood stick, 1 for $6.00^L810B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+350,"
+        Brandywine        Apple Scionwood            ","L811A: 8"" scionwood stick, 1 for $6.00^L811B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+351,"
+        Brown Snout        Apple Scionwood            ","L812A: 8"" scionwood stick, 1 for $6.00^L812B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+352,"
+        Bullock        Apple Scionwood            ","L813A: 8"" scionwood stick, 1 for $6.00^L813B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+353,"
+        Burgundy        Apple Scionwood            ","L814A: 8"" scionwood stick, 1 for $6.00^L814B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+354,"
+        Calville Blanc d’Hiver        Apple Scionwood            ","L815A: 8"" scionwood stick, 1 for $6.00^L815B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+355,"
+        Canada Reinette        Apple Scionwood            ","L816A: 8"" scionwood stick, 1 for $6.00^L816B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+356,"
+        Canadian Strawberry        Apple Scionwood            ","L817A: 8"" scionwood stick, 1 for $6.00^L817B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+357,"
+        Cellar Hole Bitter        Apple Scionwood            ","L818A: 8"" scionwood stick, 1 for $6.00^L818B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+358,"
+        Centennial        Apple Scionwood            ","L819A: 8"" scionwood stick, 1 for $6.00^L819B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+359,"
+        Chenango Strawberry        Apple Scionwood            ","L820A: 8"" scionwood stick, 1 for $6.00^L820B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+360,"
+        Cherryfield        Apple Scionwood            ","L821A: 8"" scionwood stick, 1 for $6.00^L821B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+361,"
+        Chestnut        Apple Scionwood            ","L822A: 8"" scionwood stick, 1 for $6.00^L822B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+362,"
+        Cole’s Quince        Apple Scionwood            ","L823A: 8"" scionwood stick, 1 for $6.00^L823B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+363,"
+        Cora’s Grand Greening        Apple Scionwood            ","L824A: 8"" scionwood stick, 1 for $6.00^L824B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+364,"
+        Cortland        Apple Scionwood            ","L825A: 8"" scionwood stick, 1 for $6.00^L825B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+365,"
+        Cox’s Orange Pippin        Apple Scionwood            ","L826A: 8"" scionwood stick, 1 for $6.00^L826B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+366,"
+        Dabinett        Apple Scionwood            ","L827A: 8"" scionwood stick, 1 for $6.00^L827B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+367,"
+        Dolgo Crab        Apple Scionwood            ","L828A: 8"" scionwood stick, 1 for $6.00^L828B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+368,"
+        Duchess of Oldenburg        Apple Scionwood            ","L829A: 8"" scionwood stick, 1 for $6.00^L829B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+369,"
+        Ellis Bitter        Apple Scionwood            ","L830A: 8"" scionwood stick, 1 for $6.00^L830B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+370,"
+        Empire        Apple Scionwood            ","L831A: 8"" scionwood stick, 1 for $6.00^L831B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+371,"
+        Esopus Spitzenburg        Apple Scionwood            ","L832A: 8"" scionwood stick, 1 for $6.00^L832B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+372,"
+        Fallawater        Apple Scionwood            ","L833A: 8"" scionwood stick, 1 for $6.00^L833B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+373,"
+        Fameuse        Apple Scionwood            ","L834A: 8"" scionwood stick, 1 for $6.00^L834B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+374,"
+        Fletcher Sweet        Apple Scionwood            ","L835A: 8"" scionwood stick, 1 for $6.00^L835B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+375,"
+        Freedom        Apple Scionwood            ","L836A: 8"" scionwood stick, 1 for $6.00^L836B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+376,"
+        Frostbite        Apple Scionwood            ","L837A: 8"" scionwood stick, 1 for $6.00^L837B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+377,"
+        Fuel Service        Apple Scionwood            ","L838A: 8"" scionwood stick, 1 for $6.00^L838B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+378,"
+        Gala        Apple Scionwood            ","L839A: 8"" scionwood stick, 1 for $6.00^L839B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+379,"
+        Gideon        Apple Scionwood            ","L840A: 8"" scionwood stick, 1 for $6.00^L840B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+380,"
+        Ginger Gold        Apple Scionwood            ","L841A: 8"" scionwood stick, 1 for $6.00^L841B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+381,"
+        Gnarled Chapman        Apple Scionwood            ","L842A: 8"" scionwood stick, 1 for $6.00^L842B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+382,"
+        Golden Pippin        Apple Scionwood            ","L843A: 8"" scionwood stick, 1 for $6.00^L843B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+383,"
+        Golden Russet        Apple Scionwood            ","L844A: 8"" scionwood stick, 1 for $6.00^L844B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+384,"
+        GoldRush        Apple Scionwood            ","L845A: 8"" scionwood stick, 1 for $6.00^L845B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+385,"
+        Gray Pearmain        Apple Scionwood            ","L846A: 8"" scionwood stick, 1 for $6.00^L846B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+386,"
+        Green Kerr        Apple Scionwood            ","L847A: 8"" scionwood stick, 1 for $6.00^L847B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+387,"
+        Grimes Golden        Apple Scionwood            ","L848A: 8"" scionwood stick, 1 for $6.00^L848B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+388,"
+        Haralson        Apple Scionwood            ","L849A: 8"" scionwood stick, 1 for $6.00^L849B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+389,"
+        Harrison        Apple Scionwood            ","L850A: 8"" scionwood stick, 1 for $6.00^L850B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+390,"
+        Harry Masters Jersey        Apple Scionwood            ","L851A: 8"" scionwood stick, 1 for $6.00^L851B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+391,"
+        Hewe’s Virginia Crab        Apple Scionwood            ","L852A: 8"" scionwood stick, 1 for $6.00^L852B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+392,"
+        Honeycrisp        Apple Scionwood            ","L853A: 8"" scionwood stick, 1 for $6.00^L853B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+393,"
+        Honeygold        Apple Scionwood            ","L854A: 8"" scionwood stick, 1 for $6.00^L854B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+394,"
+        Idared        Apple Scionwood            ","L855A: 8"" scionwood stick, 1 for $6.00^L855B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+395,"
+        Jonathan        Apple Scionwood            ","L856A: 8"" scionwood stick, 1 for $6.00^L856B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+396,"
+        Kavanagh        Apple Scionwood            ","L857A: 8"" scionwood stick, 1 for $6.00^L857B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+397,"
+        Keepsake        Apple Scionwood            ","L858A: 8"" scionwood stick, 1 for $6.00^L858B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+398,"
+        King David        Apple Scionwood            ","L859A: 8"" scionwood stick, 1 for $6.00^L859B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+399,"
+        King of Tompkins County        Apple Scionwood            ","L860A: 8"" scionwood stick, 1 for $6.00^L860B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+400,"
+        Kingston Black        Apple Scionwood            ","L861A: 8"" scionwood stick, 1 for $6.00^L861B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+401,"
+        Kola        Apple Scionwood            ","L862A: 8"" scionwood stick, 1 for $6.00^L862B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+402,"
+        Lady        Apple Scionwood            ","L863A: 8"" scionwood stick, 1 for $6.00^L863B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+403,"
+        Liberty        Apple Scionwood            ","L864A: 8"" scionwood stick, 1 for $6.00^L864B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+404,"
+        Lodi        Apple Scionwood            ","L865A: 8"" scionwood stick, 1 for $6.00^L865B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+405,"
+        Macoun        Apple Scionwood            ","L866A: 8"" scionwood stick, 1 for $6.00^L866B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+406,"
+        Martha Crab        Apple Scionwood            ","L867A: 8"" scionwood stick, 1 for $6.00^L867B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+407,"
+        McIntosh        Apple Scionwood            ","L868A: 8"" scionwood stick, 1 for $6.00^L868B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+408,"
+        Medaille d’Or        Apple Scionwood            ","L869A: 8"" scionwood stick, 1 for $6.00^L869B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+409,"
+        Melrose        Apple Scionwood            ","L870A: 8"" scionwood stick, 1 for $6.00^L870B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+410,"
+        Milden        Apple Scionwood            ","L871A: 8"" scionwood stick, 1 for $6.00^L871B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+411,"
+        Milo Gibson        Apple Scionwood            ","L872A: 8"" scionwood stick, 1 for $6.00^L872B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+412,"
+        Mutsu        Apple Scionwood            ","L873A: 8"" scionwood stick, 1 for $6.00^L873B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+413,"
+        Nodhead        Apple Scionwood            ","L874A: 8"" scionwood stick, 1 for $6.00^L874B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+414,"
+        Northern Spy        Apple Scionwood            ","L875A: 8"" scionwood stick, 1 for $6.00^L875B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+415,"
+        Northwestern Greening        Apple Scionwood            ","L876A: 8"" scionwood stick, 1 for $6.00^L876B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+416,"
+        Opalescent        Apple Scionwood            ","L877A: 8"" scionwood stick, 1 for $6.00^L877B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+417,"
+        Orlean’s Reinette        Apple Scionwood            ","L878A: 8"" scionwood stick, 1 for $6.00^L878B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+418,"
+        Otterson        Apple Scionwood            ","L931A: 8"" scionwood stick, 1 for $6.00^L931B: scionwood by the foot (10' minimum), 1 for $5.50"
+419,"
+        Pipsqueak        Apple Scionwood            ","L879A: 8"" scionwood stick, 1 for $6.00^L879B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+420,"
+        Pomme d’Or        Apple Scionwood            ","L880A: 8"" scionwood stick, 1 for $6.00^L880B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+421,"
+        Pomme Grise        Apple Scionwood            ","L881A: 8"" scionwood stick, 1 for $6.00^L881B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+422,"
+        Porter’s Perfection        Apple Scionwood            ","L882A: 8"" scionwood stick, 1 for $6.00^L882B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+423,"
+        Prima        Apple Scionwood            ","L883A: 8"" scionwood stick, 1 for $6.00^L883B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+424,"
+        Priscilla        Apple Scionwood            ","L884A: 8"" scionwood stick, 1 for $6.00^L884B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+425,"
+        Red Astrachan        Apple Scionwood            ","L885A: 8"" scionwood stick, 1 for $6.00^L885B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+426,"
+        Redfield        Apple Scionwood            ","L886A: 8"" scionwood stick, 1 for $6.00^L886B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+427,"
+        Rhode Island Greening        Apple Scionwood            ","L887A: 8"" scionwood stick, 1 for $6.00^L887B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+428,"
+        Ribston Pippin        Apple Scionwood            ","L888A: 8"" scionwood stick, 1 for $6.00^L888B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+429,"
+        Roxbury Russet        Apple Scionwood            ","L889A: 8"" scionwood stick, 1 for $6.00^L889B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+430,"
+        Sand Hill        Apple Scionwood            ","L890A: 8"" scionwood stick, 1 for $6.00^L890B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+431,"
+        Screen Shot        Apple Scionwood            ","L891A: 8"" scionwood stick, 1 for $6.00^L891B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+432,"
+        Shavel Sharp        Apple Scionwood            ","L892A: 8"" scionwood stick, 1 for $6.00^L892B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+433,"
+        Smokehouse        Apple Scionwood            ","L893A: 8"" scionwood stick, 1 for $6.00^L893B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+434,"
+        Spencer        Apple Scionwood            ","L894A: 8"" scionwood stick, 1 for $6.00^L894B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+435,"
+        Spice Sweet        Apple Scionwood            ","L895A: 8"" scionwood stick, 1 for $6.00^L895B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+436,"
+        St. Edmund’s Russet        Apple Scionwood            ","L896A: 8"" scionwood stick, 1 for $6.00^L896B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+437,"
+        St. Lawrence        Apple Scionwood            ","L897A: 8"" scionwood stick, 1 for $6.00^L897B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+438,"
+        Starkey        Apple Scionwood            ","L898A: 8"" scionwood stick, 1 for $6.00^L898B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+439,"
+        State Fair        Apple Scionwood            ","L899A: 8"" scionwood stick, 1 for $6.00^L899B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+440,"
+        Stoke Red        Apple Scionwood            ","L900A: 8"" scionwood stick, 1 for $6.00^L900B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+441,"
+        Sweet Sal        Apple Scionwood            ","L901A: 8"" scionwood stick, 1 for $6.00^L901B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+442,"
+        Sweet Sixteen        Apple Scionwood            ","L902A: 8"" scionwood stick, 1 for $6.00^L902B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+443,"
+        Tater House        Apple Scionwood            ","L903A: 8"" scionwood stick, 1 for $6.00^L903B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+444,"
+        Tolman Sweet        Apple Scionwood            ","L904A: 8"" scionwood stick, 1 for $6.00^L904B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+445,"
+        Trailman        Apple Scionwood            ","L905A: 8"" scionwood stick, 1 for $6.00^L905B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+446,"
+        Wagener        Apple Scionwood            ","L906A: 8"" scionwood stick, 1 for $6.00^L906B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+447,"
+        Wealthy        Apple Scionwood            ","L907A: 8"" scionwood stick, 1 for $6.00^L907B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+448,"
+        Westfield Seek-No-Further        Apple Scionwood            ","L908A: 8"" scionwood stick, 1 for $6.00^L908B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+449,"
+        Whitney Crab        Apple Scionwood            ","L909A: 8"" scionwood stick, 1 for $6.00^L909B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+450,"
+        Wickson        Apple Scionwood            ","L910A: 8"" scionwood stick, 1 for $6.00^L910B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+451,"
+        Williams Pride        Apple Scionwood            ","L911A: 8"" scionwood stick, 1 for $6.00^L911B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+452,"
+        Windham Russet        Apple Scionwood            ","L912A: 8"" scionwood stick, 1 for $6.00^L912B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+453,"
+        Winekist        Apple Scionwood            ","L913A: 8"" scionwood stick, 1 for $6.00^L913B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+454,"
+        Winn Russet        Apple Scionwood            ","L914A: 8"" scionwood stick, 1 for $6.00^L914B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+455,"
+        Winter Banana        Apple Scionwood            ","L915A: 8"" scionwood stick, 1 for $6.00^L915B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+456,"
+        Wolf River        Apple Scionwood            ","L916A: 8"" scionwood stick, 1 for $6.00^L916B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+457,"
+        Yellow Bellflower        Apple Scionwood            ","L917A: 8"" scionwood stick, 1 for $6.00^L917B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+458,"
+        ‘Brandywine’        Crabapple            ","242C: on M111 semi-dwarfing stock, 1 for $38.50"
+459,"
+        ‘Dolgo’        Crabapple            ","244C: on M111 semi-dwarfing stock, 1 for $38.50"
+460,"
+        Blanche Ames        Crabapple            ","241C: on M111 semi-dwarfing stock, 1 for $38.50"
+461,"
+        Coralburst        Crabapple            ","243C: on M111 semi-dwarfing stock, 1 for $38.50"
+462,"
+        Fountain        Crabapple            ","245C: on M111 semi-dwarfing stock, 1 for $38.50"
+463,"
+        Golden Raindrops        Crabapple            ","246C: on M111 semi-dwarfing stock, 1 for $38.50"
+464,"
+        Hatchet Mountain        Crabapple            ","247C: on M111 semi-dwarfing stock, 1 for $38.50"
+465,"
+        Lemoine        Crabapple            ","248C: on M111 semi-dwarfing stock, 1 for $38.50"
+466,"
+        Sargent, Mt. Auburn strain        Crabapple            ","249C: on M111 semi-dwarfing stock, 1 for $38.50"
+467,"
+        Solon Hotel        Crabapple            ","250C: on M111 semi-dwarfing stock, 1 for $38.50"
+468,"
+        Waterville Crab        Crabapple            ","251C: on M111 semi-dwarfing stock, 1 for $38.50"
+469,"
+        Bluegold        Highbush Blueberry            ",365A: 1 for $18.00
+470,"
+        Blueray        Highbush Blueberry            ",366A: 1 for $18.00
+471,"
+        Duke        Highbush Blueberry            ",367A: 1 for $18.00
+472,"
+        Elizabeth        Highbush Blueberry            ",368A: 1 for $18.00
+473,"
+        Elliott        Highbush Blueberry            ",369A: 1 for $18.00
+474,"
+        Herbert        Highbush Blueberry            ",370A: 1 for $18.00
+475,"
+        Jersey        Highbush Blueberry            ",371A: 1 for $18.00
+476,"
+        Meader        Highbush Blueberry            ",372A: 1 for $18.00
+477,"
+        Patriot        Highbush Blueberry            ",373A: 1 for $18.00
+478,"
+        Brunswick        Lowbush Blueberry            ",375A: 1 for $18.00
+479,"
+        Jewel        Black Raspberry            ",408A: 5 for $35.75
+480,"
+        Nelson        Blackberry            ",410A: 5 for $35.75
+481,"
+        Anne        Everbearing Raspberry            ",401A: 10 for $35.75
+482,"
+        August Red        Everbearing Raspberry            ",402A: 5 for $35.75
+483,"
+        Polana        Everbearing Raspberry            ",403A: 10 for $35.75
+484,"
+        Latham        Summer-bearing Raspberry            ",404A: 10 for $35.75
+485,"
+        Nova        Summer-bearing Raspberry            ",405A: 10 for $35.75
+486,"
+        Prelude        Summer-bearing Raspberry            ",406A: 10 for $35.75
+487,"
+        Royalty Purple        Summer-bearing Raspberry            ",407A: 5 for $35.75
+488,"
+        ‘Sweet Cherry Pie’        Pie Cherry            ",327A: 1 for $38.50
+489,"
+        English Morello        Pie Cherry            ",322A: 1 for $38.50
+490,"
+        Evans        Pie Cherry            ",323A: 1 for $38.50
+491,"
+        Garfield Plantation        Pie Cherry            ",324A: 1 for $38.50
+492,"
+        Meteor        Pie Cherry            ",325A: 1 for $38.50
+493,"
+        Montmorency        Pie Cherry            ",326A: 1 for $38.50
+494,"
+        Attika        Sweet Cherry            ",311A: 1 for $38.50
+495,"
+        Benton        Sweet Cherry            ",312A: 1 for $38.50
+496,"
+        Black Tartarian        Sweet Cherry            ",313A: 1 for $38.50
+497,"
+        BlackPearl        Sweet Cherry            ",314A: 1 for $38.50
+498,"
+        Lapins        Sweet Cherry            ",315A: 1 for $38.50
+499,"
+        Leningrad        Sweet Cherry            ",316A: 1 for $38.50
+500,"
+        Rainier        Sweet Cherry            ",317A: 1 for $38.50
+501,"
+        Skeena        Sweet Cherry            ",318A: 1 for $38.50
+502,"
+        Eastern White Cedar                    ",467A: 5 for $22.50
+503,"
+        Balsam Fir                    ",461A: 5 for $22.00
+504,"
+        Eastern White Pine                    ",466A: 5 for $23.50
+505,"
+        Dawn Redwood                    ",462A: 1 for $20.00
+506,"
+        Colorado Blue Spruce                    ",465A: 5 for $23.50
+507,"
+        Norway Spruce                    ",463A: 5 for $23.50
+508,"
+        White Spruce                    ",464A: 5 for $23.50
+509,"
+        ‘Brandywine’        Crabapple            ","242C: on M111 semi-dwarfing stock, 1 for $38.50"
+510,"
+        ‘Dolgo’        Crabapple            ","244C: on M111 semi-dwarfing stock, 1 for $38.50"
+511,"
+        Blanche Ames        Crabapple            ","241C: on M111 semi-dwarfing stock, 1 for $38.50"
+512,"
+        Coralburst        Crabapple            ","243C: on M111 semi-dwarfing stock, 1 for $38.50"
+513,"
+        Fountain        Crabapple            ","245C: on M111 semi-dwarfing stock, 1 for $38.50"
+514,"
+        Golden Raindrops        Crabapple            ","246C: on M111 semi-dwarfing stock, 1 for $38.50"
+515,"
+        Hatchet Mountain        Crabapple            ","247C: on M111 semi-dwarfing stock, 1 for $38.50"
+516,"
+        Lemoine        Crabapple            ","248C: on M111 semi-dwarfing stock, 1 for $38.50"
+517,"
+        Sargent, Mt. Auburn strain        Crabapple            ","249C: on M111 semi-dwarfing stock, 1 for $38.50"
+518,"
+        Solon Hotel        Crabapple            ","250C: on M111 semi-dwarfing stock, 1 for $38.50"
+519,"
+        Waterville Crab        Crabapple            ","251C: on M111 semi-dwarfing stock, 1 for $38.50"
+520,"
+        ‘Mary Washington’        Asparagus            ",L596A: 25 for $33.50
+521,"
+        ‘Purple Passion’        Asparagus            ",L597A: 25 for $33.50
+522,"
+        ‘Big Top’ Horseradish                    ",L595A: 5 for $21.00
+523,"
+        Rhubarb Seedling                    ",L598A: 1 for $14.00
+524,"
+        Bluebell        Grape            ",412A: 1 for $18.00
+525,"
+        Frontenac Blanc        Grape            ",413A: 1 for $18.00
+526,"
+        Louise Swenson        Grape            ",414A: 1 for $18.00
+527,"
+        Marquette        Grape            ",415A: 1 for $18.00
+528,"
+        Petite Pearl        Grape            ",416A: 1 for $18.00
+529,"
+        Reliance Seedless        Grape            ",417A: 1 for $18.00
+530,"
+        Somerset Seedless        Grape            ",418A: 1 for $18.00
+531,"
+        Vanessa Seedless        Grape            ",419A: 1 for $18.00
+532,"
+        Bearberry                    ",577A: 1 for $22.00
+533,"
+        ‘Stevens’ American Cranberry                    ",583A: 1 for $23.00
+534,"
+        ‘December Red’ Winter Heath                    ",L581A: 1 for $12.50
+535,"
+        ‘Robert Chapman’        Heather            ",L578A: 1 for $12.50
+536,"
+        ‘Spring Cream’        Heather            ",L579A: 1 for $12.50
+537,"
+        ‘Erntedank’        Lingonberry            ",586A: 1 for $22.50
+538,"
+        ‘Erntesegen’        Lingonberry            ",587A: 1 for $22.50
+539,"
+        ‘Linnea’        Lingonberry            ",588A: 1 for $22.50
+540,"
+        ‘Magenta’        Lingonberry            ",589A: 1 for $22.50
+541,"
+        ‘Red Pearl’        Lingonberry            ",590A: 1 for $22.50
+542,"
+        ‘Red Sunset’        Lingonberry            ",591A: 1 for $22.50
+543,"
+        ‘Ruby’        Lingonberry            ",594A: 1 for $22.50
+544,"
+        ‘Sussi’        Lingonberry            ",593A: 1 for $22.50
+545,"
+        Wintergreen                    ",L582A: 1 for $10.50^L582B: 3 for $24.00
+546,"
+        ‘Minuet’        Lilac            ",557A: 1 for $21.00
+547,"
+        ‘Monge’        Lilac            ",556A: 1 for $21.00
+548,"
+        ‘Mount Baker’        Lilac            ",553A: 1 for $21.00
+549,"
+        ‘Pocahontas’        Lilac            ",554A: 1 for $21.00
+550,"
+        Common Purple        Lilac            ",555A: 1 for $21.00
+551,"
+        Arnica chamissonis                 - Organic    ",L746A: 1 for $9.50^L746B: 2 for $16.50^L746C: 3 for $22.25
+552,"
+        Chinese Milk Vetch        Astragalus         - Organic    ",L747A: 1 for $9.50^L747B: 2 for $16.50^L747C: 3 for $22.25
+553,"
+        ‘Panorama Reds’        Bee Balm         - Organic    ",L756A: 1 for $8.75^L756B: 3 for $22.75
+554,"
+        Wild Bergamot        Bee Balm         - Organic    ",L757A: 1 for $8.75^L757B: 3 for $22.75
+555,"
+        Black Cohosh                    ",L743A: 1 for $11.25^L743B: 2 for $19.50^L743C: 3 for $26.50
+556,"
+        Boneset                 - Organic    ",L750A: 1 for $9.50^L750B: 2 for $16.50^L750C: 3 for $22.25
+557,"
+        Comfrey                    ",L761A: 1 for $8.75^L761B: 3 for $22.75^L761C: 6 for $40.75
+558,"
+        Purple Coneflower        Echinacea            ",L749A: 1 for $9.50^L749B: 2 for $16.50^L749C: 3 for $22.25
+559,"
+        Yellow Coneflower        Echinacea         - Organic    ",L748A: 1 for $8.00^L748B: 2 for $13.75^L748C: 3 for $18.50
+560,"
+        ‘Munstead’        Lavender            ",L752A: 1 for $9.50
+561,"
+        Lemon Balm                 - Organic    ",L754A: 1 for $8.75^L754B: 2 for $15.25^L754C: 3 for $20.50
+562,"
+        Licorice                 - Organic    ",L751A: 1 for $9.50^L751B: 2 for $16.50^L751C: 3 for $22.25
+563,"
+        Lovage                 - Organic    ",L753A: 1 for $8.75^L753B: 2 for $15.25^L753C: 3 for $20.50
+564,"
+        Marshmallow                 - Organic    ",L745A: 1 for $9.50^L745B: 2 for $16.50^L745C: 3 for $22.25
+565,"
+        Chocolate Mint                 - Organic    ",L755A: 1 for $8.75^L755B: 2 for $15.25^L755C: 3 for $20.50
+566,"
+        Mountain Mint                 - Organic    ",L759A: 1 for $9.50^L759B: 2 for $16.50^L759C: 3 for $22.25
+567,"
+        Stinging Nettle                 - Organic    ",L763A: 1 for $8.75^L763B: 2 for $15.25^L763C: 3 for $20.50
+568,"
+        Sweetflag                    ",L742A: 3 for $24.00
+569,"
+        Blue Vervain                 - Organic    ",L764A: 1 for $9.50^L764B: 2 for $16.50^L764C: 3 for $22.25
+570,"
+        Common Blue Violet                 - Organic    ",L765A: 1 for $8.00^L765B: 2 for $13.75^L765C: 3 for $18.50
+571,"
+        Yarrow                 - Organic    ",L741A: 1 for $9.50^L741B: 2 for $16.50^L741C: 3 for $22.25
+572,"
+        Almond Agaricus        Mushroom            ","605C: Sawdust spawn, 1 for $25.00"
+573,"
+        Blue Oyster        Mushroom            ","L612A: 100 plugs, 100 for $16.50^L612B: 500 plugs, 500 for $33.00^612C: Sawdust spawn, 1 for $25.00^L612D: Plug kit, 1 for $30.00^612E: Countertop kit, 1 for $28.00"
+574,"
+        Chicken of the Woods        Mushroom            ","L608A: 100 plugs, 100 for $16.50^L608B: 500 plugs, 500 for $33.00^608C: Sawdust spawn, 1 for $25.00"
+575,"
+        Golden Oyster        Mushroom            ","L611A: 100 plugs, 100 for $16.50^L611B: 500 plugs, 500 for $33.00^611C: Sawdust spawn, 1 for $25.00^L611D: Plug kit, 1 for $30.00^611E: Countertop kit, 1 for $28.00"
+576,"
+        Hen of the Woods        Mushroom            ","L606A: 100 plugs, 100 for $16.50^L606B: 500 plugs, 500 for $33.00^606C: Sawdust spawn, 1 for $25.00"
+577,"
+        Italian Oyster        Mushroom            ","L613A: 100 plugs, 100 for $16.50^L613B: 500 plugs, 500 for $33.00^613C: Sawdust spawn, 1 for $25.00^L613D: Plug kit, 1 for $30.00"
+578,"
+        Lion’s Mane        Mushroom            ","L607A: 100 plugs, 100 for $16.50^L607B: 500 plugs, 500 for $33.00^607C: Sawdust spawn, 1 for $25.00^L607D: Plug kit, 1 for $30.00^607E: Countertop kit, 1 for $28.00"
+579,"
+        Nameko        Mushroom            ","L610A: 100 plugs, 100 for $16.50^L610B: 500 plugs, 500 for $33.00^610C: Sawdust spawn, 1 for $25.00"
+580,"
+        Shiitake        Mushroom            ","L609A: 100 plugs, 100 for $16.50^L609B: 500 plugs, 500 for $33.00^609C: Sawdust spawn, 1 for $25.00^L609D: Plug kit, 1 for $30.00^609E: Countertop kit, 1 for $28.00"
+581,"
+        Wine Cap        Mushroom            ","614C: Sawdust spawn, 1 for $25.00"
+582,"
+        12 mm high speed drill bit with stop collar        Tool            ",L619A: 1 for $22.00
+583,"
+        5/16"" low speed drill bit        Tool            ",L617A: 1 for $7.00
+584,"
+        8.5 mm high speed drill bit with stop collar        Tool            ",L618A: 1 for $22.00
+585,"
+        Angle Grinder Adapter        Tool            ",L616A: 1 for $55.00
+586,"
+        Inoculation Tool                    ",L615A: 1 for $44.00
+587,"
+        Sealing Wax 1 lb.        Tool            ",L620A: 1 for $6.00
+588,"
+        XL Filter Patch Bags        Tool            ","L621A: package of 10, 10 for $20.00"
+589,"
+        Butternut                    ",436A: 1 for $21.50
+590,"
+        American Chestnut                    ",433A: 1 for $28.25
+591,"
+        Hybrid Chestnut Seedling                    ",434A: 1 for $18.50
+592,"
+        American Hazelnut                    ",435A: 1 for $20.00^435B: 5 for $90.00
+593,"
+        Hybrid Hazelnut Seedling                    ",432A: 1 for $17.50
+594,"
+        Black Walnut                    ",437A: 1 for $19.00
+595,"
+        Carpathian Walnut                    ",438A: 1 for $21.50
+596,"
+        Contender        Peach            ",331A: 1 for $37.00
+597,"
+        Madison        Peach            ",332A: 1 for $37.00
+598,"
+        Redhaven        Peach            ",333A: 1 for $37.00
+599,"
+        Reliance        Peach            ",334A: 1 for $37.00
+600,"
+        Saturn        Peach            ",335A: 1 for $37.00
+601,"
+        Veteran        Peach            ",336A: 1 for $37.00
+602,"
+        White Lady        Peach            ",337A: 1 for $37.00
+603,"
+        Atago        Asian Pear            ",305A: 1 for $38.00
+604,"
+        Hosui        Asian Pear            ",306A: 1 for $38.00
+605,"
+        Olympic        Asian Pear            ",307A: 1 for $38.00
+606,"
+        Shinko        Asian Pear            ",308A: 1 for $38.00
+607,"
+        Shinseiki        Asian Pear            ",309A: 1 for $38.00
+608,"
+        Bartlett        European Pear            ",272A: 1 for $38.00
+609,"
+        Beurre Clairgeau        European Pear            ",273A: 1 for $38.00
+610,"
+        Bosc        European Pear            ",274A: 1 for $38.00
+611,"
+        Cabot Vermont        European Pear            ",275A: 1 for $38.00
+612,"
+        Comptesse Clara Frijs        European Pear            ",276A: 1 for $38.00
+613,"
+        Dana Hovey        European Pear            ",277A: 1 for $38.00
+614,"
+        Diel        European Pear            ",278A: 1 for $38.00
+615,"
+        Duchesse de Berry d’Ete        European Pear            ",279A: 1 for $38.00
+616,"
+        Gorham        European Pear            ",280A: 1 for $38.00
+617,"
+        Harrow Delight        European Pear            ",281A: 1 for $38.00
+618,"
+        Kaspar’s Winter        European Pear            ",282A: 1 for $38.00
+619,"
+        Louise Bonne d’Avranches        European Pear            ",283A: 1 for $38.00
+620,"
+        Nova        European Pear            ",284A: 1 for $38.00
+621,"
+        Patten        European Pear            ",285A: 1 for $38.00
+622,"
+        Seckel        European Pear            ",286A: 1 for $38.00
+623,"
+        Superfin        European Pear            ",287A: 1 for $38.00
+624,"
+        Vicar of Winkfield        European Pear            ",288A: 1 for $38.00
+625,"
+        Winter Nelis        European Pear            ",289A: 1 for $38.00
+626,"
+        Butt        Perry Pear            ",298A: 1 for $38.00
+627,"
+        Gin        Perry Pear            ",299A: 1 for $38.00
+628,"
+        Hendre Huffcap        Perry Pear            ",300A: 1 for $38.00
+629,"
+        Winnals Longdon        Perry Pear            ",301A: 1 for $38.00
+630,"
+        Yellow Huffcap        Perry Pear            ",302A: 1 for $38.00
+631,"
+        Pyrus ‘OHxF97’        Rootstock            ","265A: late-March to early-May shipment, 10 for $36.00^265B: mid-March shipment, 10 for $36.00"
+632,"
+        ‘Little Sapphire’ Flowering Onion        Allium            ",L683A: 1 for $7.50^L683B: 3 for $19.50^L683C: 6 for $35.00
+633,"
+        Butterfly Weed        Asclepias            ",L690A: 1 for $10.25^L690B: 2 for $18.00^L690C: 3 for $24.25
+634,"
+        Swamp Red Milkweed        Asclepias         - Organic    ",L689A: 1 for $10.25^L689B: 2 for $18.00^L689C: 3 for $24.25
+635,"
+        ‘Alert’        Aster            ",L734A: 1 for $7.50^L734B: 3 for $19.25^L734C: 6 for $34.50
+636,"
+        New England Aster                 - Organic    ",L736A: 1 for $9.50^L736B: 3 for $24.75^L736C: 6 for $44.50
+637,"
+        Smooth Blue Aster                 - Organic    ",L735A: 1 for $9.50^L735B: 3 for $24.75^L735C: 6 for $44.50
+638,"
+        Blue False Indigo        Baptisia            ",L692A: 1 for $9.50^L692B: 3 for $24.75^L692C: 6 for $44.50
+639,"
+        Old-Fashioned Bleeding Heart                    ",L694A: 1 for $6.75^L694B: 3 for $17.25^L694C: 6 for $31.00
+640,"
+        Willow-leaf Bluestar                 - Organic    ",L684A: 1 for $9.50^L684B: 3 for $24.75^L684C: 6 for $44.50
+641,"
+        ‘Walker’s Low’ Catmint                    ",L718A: 1 for $10.25^L718B: 2 for $18.00^L718C: 3 for $24.25
+642,"
+        Wild Columbine                 - Organic    ",L685A: 1 for $9.50^L685B: 3 for $24.75^L685C: 6 for $44.50
+643,"
+        ‘Bocking 14’ Russian Comfrey                 - Organic    ",L737A: 3 for $23.75
+644,"
+        Prairie Coreopsis                 - Organic    ",L693A: 1 for $9.50^L693B: 2 for $16.50^L693C: 3 for $22.25
+645,"
+        Culver’s Root                 - Organic    ",L740A: 1 for $9.50^L740B: 2 for $16.50^L740C: 3 for $22.25
+646,"
+        ‘Catcher in the Eye’        Daylily            ",L704A: 1 for $7.75^L704B: 3 for $20.00^L704C: 6 for $36.25
+647,"
+        ‘Entrapment’        Daylily            ",L705A: 1 for $7.75^L705B: 3 for $20.00^L705C: 6 for $36.25
+648,"
+        ‘Hyperion’        Daylily            ",L706A: 3 for $13.50^L706B: 6 for $23.25^L706C: 12 for $42.00
+649,"
+        ‘Primal Scream’        Daylily            ",L707A: 1 for $7.75^L707B: 3 for $20.00^L707C: 6 for $36.25
+650,"
+        Leatherwood Fern                    ",L699A: 6 for $26.50
+651,"
+        Maidenhair Fern                    ",L698A: 6 for $23.00
+652,"
+        Royal Fern                    ",L700A: 6 for $26.50
+653,"
+        ‘Dalmation Crème’        Foxglove            ",L695A: 1 for $4.75^L695B: 3 for $12.25^L695C: 6 for $22.00
+654,"
+        ‘Dalmation Peach’        Foxglove            ",L696A: 1 for $4.75^L696B: 3 for $12.25^L696C: 6 for $22.00
+655,"
+        Foxglove Beardtongue                 - Organic    ",L727A: 1 for $9.50^L727B: 2 for $16.50^L727C: 3 for $22.25
+656,"
+        ‘Festiva Maxima’        Garden Peony            ",L723A: 1 for $14.50^L723B: 2 for $25.00^L723C: 3 for $33.75
+657,"
+        ‘Kansas’        Garden Peony            ",L724A: 1 for $12.75^L724B: 2 for $22.00^L724C: 3 for $29.75
+658,"
+        ‘Sarah Bernhardt’        Garden Peony            ",L725A: 1 for $12.75^L725B: 2 for $22.00^L725C: 3 for $29.75
+659,"
+        ‘The Fawn’        Garden Peony            ",L726A: 1 for $19.25
+660,"
+        ‘Orion’        Geranium            ",L702A: 1 for $5.50^L702B: 3 for $14.00^L702C: 6 for $25.00
+661,"
+        Spotted Cranesbill        Geranium            ",L701A: 3 for $10.50^L701B: 6 for $18.00^L701C: 12 for $32.50
+662,"
+        Globeflower Sunshine Mix                    ",L739A: 3 for $16.00
+663,"
+        Stiff Goldenrod                 - Organic    ",L719A: 1 for $9.50^L719B: 2 for $16.50^L719C: 3 for $22.25
+664,"
+        ‘Purple Rain’        Hollyhock            ",L681A: 1 for $5.50^L681B: 3 for $14.00^L681C: 6 for $25.00
+665,"
+        ‘Sunshine’        Hollyhock            ",L682A: 1 for $5.50^L682B: 3 for $14.00^L682C: 6 for $25.00
+666,"
+        ‘Blue Hawaii’        Hosta            ",L708A: 3 for $22.00
+667,"
+        ‘Jurassic Park’        Hosta            ",L709A: 3 for $22.00
+668,"
+        Northern Blue Flag        Iris            ",L711A: 3 for $28.50
+669,"
+        Tall Bearded Iris Mix                    ",L710A: 1 plant 1 for $14.00^L710B: 3 plants 3 for $36.50
+670,"
+        ‘Bartzella’        Itoh Peony            ",L720A: 1 for $31.50
+671,"
+        ‘Pink Double Dandy’        Itoh Peony            ",L721A: 1 for $43.00
+672,"
+        ‘Singing in the Rain’        Itoh Peony            ",L722A: 1 for $43.00
+673,"
+        Jack-in-the-Pulpit                    ",L686A: 3 for $13.25^L686B: 6 for $23.00^L686C: 12 for $41.25
+674,"
+        Spotted Joe Pye Weed                 - Organic    ",L697A: 1 for $9.50^L697B: 2 for $16.50^L697C: 3 for $22.25
+675,"
+        Floristan White Blazing Star        Liatris            ",L714A: 10 for $6.00^L714B: 20 for $10.25^L714C: 50 for $23.00
+676,"
+        Prairie Blazing Star        Liatris         - Organic    ",L713A: 3 for $23.75
+677,"
+        Purple Blazing Star        Liatris            ",L715A: 10 for $6.00^L715B: 20 for $10.25^L715C: 50 for $23.00
+678,"
+        ‘Citronelle’ Tiger Lily                    ",L717A: 3 for $8.50^L717B: 6 for $14.75^L717C: 12 for $26.50
+679,"
+        Oriental Lily Mix                    ",L716A: 3 for $8.50^L716B: 6 for $14.75^L716C: 12 for $26.50
+680,"
+        ‘Mrs. Moon’ Lungwort                    ",L732A: 1 for $5.50^L732B: 3 for $14.50^L732C: 6 for $26.00
+681,"
+        ‘Burgundy Manor’ Masterwort                    ",L691A: 1 for $8.50^L691B: 3 for $21.75^L691C: 6 for $39.00
+682,"
+        English Monkshood                    ",L679A: 3 for $11.75^L679B: 6 for $20.25
+683,"
+        ‘Blue Moon’ Woodland Phlox                    ",L729A: 1 for $7.50^L729B: 3 for $19.25^L729C: 6 for $34.50
+684,"
+        ‘Blue Paradise’        Phlox            ",L730A: 1 for $6.00^L730B: 3 for $15.75^L730C: 6 for $28.25
+685,"
+        ‘Jeana’        Phlox            ",L731A: 1 for $7.50^L731B: 3 for $19.25^L731C: 6 for $34.50
+686,"
+        Russian Sage                    ",L728A: 1 for $9.25^L728B: 3 for $24.00
+687,"
+        ‘Splendens’ Sea Thrift                    ",L687A: 1 for $6.00^L687B: 2 for $10.50^L687C: 3 for $14.25
+688,"
+        Hens & Chicks Mix        Sempervivum            ",L733A: 1 for $5.50^L733B: 3 for $14.50^L733C: 6 for $26.00
+689,"
+        ‘Crazy Daisy’        Shasta Daisy         - Organic    ",L712A: 1 for $9.50^L712B: 2 for $16.50^L712C: 3 for $22.25
+690,"
+        White Snakeroot                 - Organic    ",L680A: 1 for $9.50^L680B: 2 for $16.50^L680C: 3 for $22.25
+691,"
+        Red & Gold Sneezeweed Mix                 - Organic    ",L703A: 1 for $9.50^L703B: 3 for $24.75^L703C: 6 for $44.50
+692,"
+        Ohio Spiderwort                 - Organic    ",L738A: 1 for $9.50^L738B: 3 for $24.75^L738C: 6 for $44.50
+693,"
+        Canadian Wild Ginger                    ",L688A: 3 for $24.75^L688B: 6 for $43.00^L688C: 12 for $77.25
+694,"
+        ‘Oertel’s Rose’        Yarrow            ",L675A: 3 for $16.25^L675B: 6 for $28.25
+695,"
+        ‘Paprika’        Yarrow            ",L676A: 3 for $16.25^L676B: 6 for $28.25
+696,"
+        ‘Summer Berries’        Yarrow         - Organic    ",L677A: 1 for $9.50^L677B: 2 for $16.50^L677C: 3 for $22.25
+697,"
+        ‘Terra Cotta’        Yarrow            ",L678A: 3 for $16.25^L678B: 6 for $28.25
+698,"
+        Mount Royal        European Plum            ",360A: 1 for $37.75
+699,"
+        Stanley        European Plum            ",361A: 1 for $37.75
+700,"
+        Black Ice        Hybrid Plum            ",342A: 1 for $37.75
+701,"
+        Ember        Hybrid Plum            ",343A: 1 for $37.75
+702,"
+        Kahinta        Hybrid Plum            ",344A: 1 for $37.75
+703,"
+        La Crescent        Hybrid Plum            ",345A: 1 for $37.75
+704,"
+        Lavina        Hybrid Plum            ",346A: 1 for $37.75
+705,"
+        Obilinya        Hybrid Plum            ",347A: 1 for $37.75
+706,"
+        Pembina        Hybrid Plum            ",349A: 1 for $37.75
+707,"
+        Pipestone        Hybrid Plum            ",350A: 1 for $37.75
+708,"
+        Purple Heart        Hybrid Plum            ",351A: 1 for $37.75
+709,"
+        South Dakota        Hybrid Plum            ",352A: 1 for $37.75
+710,"
+        Toka        Hybrid Plum            ",353A: 1 for $37.75
+711,"
+        Underwood        Hybrid Plum            ",354A: 1 for $37.75
+712,"
+        Waneta        Hybrid Plum            ",355A: 1 for $37.75
+713,"
+        American Plum Seedling                    ",341A: 1 for $24.00
+714,"
+        Malus Antonovka        Rootstock            ","257A: late-March to early-May shipment, 10 for $36.00^257B: mid-March shipment, 10 for $36.00"
+715,"
+        Malus Budagovsky 118        Rootstock            ","258A: late-March to early-May shipment, 10 for $36.00^258B: mid-March shipment, 10 for $36.00"
+716,"
+        Malus Budagovsky 9        Rootstock            ","261A: late-March to early-May shipment, 10 for $36.00^261B: mid-March shipment, 10 for $36.00"
+717,"
+        Malus Geneva 11        Rootstock            ","260A: late-March to early-May shipment, 10 for $39.25^260B: mid-March shipment, 10 for $39.25"
+718,"
+        Malus M111        Rootstock            ","259A: late-March to early-May shipment, 10 for $36.00^259B: mid-March shipment, 10 for $36.00"
+719,"
+        Prunus americana        Rootstock            ","262A: late-March to early-May shipment, 10 for $36.00^262B: mid-March shipment, 10 for $36.00"
+720,"
+        Prunus avium ‘Mazzard’        Rootstock            ","263A: late-March to early-May shipment, 10 for $36.00^263B: mid-March shipment, 10 for $36.00"
+721,"
+        Prunus cerasifera ‘Myrobalan’        Rootstock            ","264A: late-March to early-May shipment, 10 for $36.00^264B: mid-March shipment, 10 for $36.00"
+722,"
+        Pyrus ‘OHxF97’        Rootstock            ","265A: late-March to early-May shipment, 10 for $36.00^265B: mid-March shipment, 10 for $36.00"
+723,"
+        ‘Belle de Crecy’        Rose            ",523A: 1 for $22.75
+724,"
+        ‘Blanc Double de Coubert’        Rose            ",533A: 1 for $22.75
+725,"
+        ‘Fantin Latour’        Rose            ",522A: 1 for $22.75
+726,"
+        ‘Lavender Bouquet’        Rose            ",528A: 1 for $22.75
+727,"
+        ‘Moje Hammarberg’        Rose            ",534A: 1 for $22.75
+728,"
+        ‘Officinalis’ Apothecary’s Rose                    ",524A: 1 for $22.75
+729,"
+        ‘Oscar Peterson’        Rose            ",529A: 1 for $22.75
+730,"
+        ‘Pierette Pavement’        Rose            ",535A: 1 for $22.75
+731,"
+        ‘Polareis’        Rose            ",536A: 1 for $22.75
+732,"
+        ‘Pristine Pavement’        Rose            ",537A: 1 for $22.75
+733,"
+        ‘Quadra’        Rose            ",530A: 1 for $22.75
+734,"
+        ‘Scharlachglut’        Rose            ",525A: 1 for $22.75
+735,"
+        ‘Tuscany Superb’        Rose            ",526A: 1 for $22.75
+736,"
+        ‘Versicolor’ Rosa Mundi        Rose            ",527A: 1 for $22.75
+737,"
+        ‘Williams Double Yellow’        Rose            ",532A: 1 for $22.75
+738,"
+        Ramblin’ Red®        Rose            ",531A: 1 for $22.75
+739,"
+        American Summer Pearmain        Apple Scionwood            ","L801A: 8"" scionwood stick, 1 for $6.00^L801B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+740,"
+        Arkansas Black        Apple Scionwood            ","L802A: 8"" scionwood stick, 1 for $6.00^L802B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+741,"
+        Ashmead’s Kernel        Apple Scionwood            ","L803A: 8"" scionwood stick, 1 for $6.00^L803B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+742,"
+        Aunt Penelope Winslow        Apple Scionwood            ","L804A: 8"" scionwood stick, 1 for $6.00^L804B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+743,"
+        Baldwin        Apple Scionwood            ","L805A: 8"" scionwood stick, 1 for $6.00^L805B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+744,"
+        Ben Davis        Apple Scionwood            ","L806A: 8"" scionwood stick, 1 for $6.00^L806B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+745,"
+        Binet Rouge        Apple Scionwood            ","L807A: 8"" scionwood stick, 1 for $6.00^L807B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+746,"
+        Black Oxford        Apple Scionwood            ","L808A: 8"" scionwood stick, 1 for $6.00^L808B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+747,"
+        Blenheim Orange        Apple Scionwood            ","L809A: 8"" scionwood stick, 1 for $6.00^L809B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+748,"
+        Blue Pearmain        Apple Scionwood            ","L810A: 8"" scionwood stick, 1 for $6.00^L810B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+749,"
+        Brandywine        Apple Scionwood            ","L811A: 8"" scionwood stick, 1 for $6.00^L811B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+750,"
+        Brown Snout        Apple Scionwood            ","L812A: 8"" scionwood stick, 1 for $6.00^L812B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+751,"
+        Bullock        Apple Scionwood            ","L813A: 8"" scionwood stick, 1 for $6.00^L813B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+752,"
+        Burgundy        Apple Scionwood            ","L814A: 8"" scionwood stick, 1 for $6.00^L814B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+753,"
+        Calville Blanc d’Hiver        Apple Scionwood            ","L815A: 8"" scionwood stick, 1 for $6.00^L815B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+754,"
+        Canada Reinette        Apple Scionwood            ","L816A: 8"" scionwood stick, 1 for $6.00^L816B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+755,"
+        Canadian Strawberry        Apple Scionwood            ","L817A: 8"" scionwood stick, 1 for $6.00^L817B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+756,"
+        Cellar Hole Bitter        Apple Scionwood            ","L818A: 8"" scionwood stick, 1 for $6.00^L818B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+757,"
+        Centennial        Apple Scionwood            ","L819A: 8"" scionwood stick, 1 for $6.00^L819B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+758,"
+        Chenango Strawberry        Apple Scionwood            ","L820A: 8"" scionwood stick, 1 for $6.00^L820B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+759,"
+        Cherryfield        Apple Scionwood            ","L821A: 8"" scionwood stick, 1 for $6.00^L821B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+760,"
+        Chestnut        Apple Scionwood            ","L822A: 8"" scionwood stick, 1 for $6.00^L822B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+761,"
+        Cole’s Quince        Apple Scionwood            ","L823A: 8"" scionwood stick, 1 for $6.00^L823B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+762,"
+        Cora’s Grand Greening        Apple Scionwood            ","L824A: 8"" scionwood stick, 1 for $6.00^L824B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+763,"
+        Cortland        Apple Scionwood            ","L825A: 8"" scionwood stick, 1 for $6.00^L825B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+764,"
+        Cox’s Orange Pippin        Apple Scionwood            ","L826A: 8"" scionwood stick, 1 for $6.00^L826B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+765,"
+        Dabinett        Apple Scionwood            ","L827A: 8"" scionwood stick, 1 for $6.00^L827B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+766,"
+        Dolgo Crab        Apple Scionwood            ","L828A: 8"" scionwood stick, 1 for $6.00^L828B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+767,"
+        Duchess of Oldenburg        Apple Scionwood            ","L829A: 8"" scionwood stick, 1 for $6.00^L829B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+768,"
+        Ellis Bitter        Apple Scionwood            ","L830A: 8"" scionwood stick, 1 for $6.00^L830B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+769,"
+        Empire        Apple Scionwood            ","L831A: 8"" scionwood stick, 1 for $6.00^L831B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+770,"
+        Esopus Spitzenburg        Apple Scionwood            ","L832A: 8"" scionwood stick, 1 for $6.00^L832B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+771,"
+        Fallawater        Apple Scionwood            ","L833A: 8"" scionwood stick, 1 for $6.00^L833B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+772,"
+        Fameuse        Apple Scionwood            ","L834A: 8"" scionwood stick, 1 for $6.00^L834B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+773,"
+        Fletcher Sweet        Apple Scionwood            ","L835A: 8"" scionwood stick, 1 for $6.00^L835B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+774,"
+        Freedom        Apple Scionwood            ","L836A: 8"" scionwood stick, 1 for $6.00^L836B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+775,"
+        Frostbite        Apple Scionwood            ","L837A: 8"" scionwood stick, 1 for $6.00^L837B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+776,"
+        Fuel Service        Apple Scionwood            ","L838A: 8"" scionwood stick, 1 for $6.00^L838B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+777,"
+        Gala        Apple Scionwood            ","L839A: 8"" scionwood stick, 1 for $6.00^L839B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+778,"
+        Gideon        Apple Scionwood            ","L840A: 8"" scionwood stick, 1 for $6.00^L840B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+779,"
+        Ginger Gold        Apple Scionwood            ","L841A: 8"" scionwood stick, 1 for $6.00^L841B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+780,"
+        Gnarled Chapman        Apple Scionwood            ","L842A: 8"" scionwood stick, 1 for $6.00^L842B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+781,"
+        Golden Pippin        Apple Scionwood            ","L843A: 8"" scionwood stick, 1 for $6.00^L843B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+782,"
+        Golden Russet        Apple Scionwood            ","L844A: 8"" scionwood stick, 1 for $6.00^L844B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+783,"
+        GoldRush        Apple Scionwood            ","L845A: 8"" scionwood stick, 1 for $6.00^L845B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+784,"
+        Gray Pearmain        Apple Scionwood            ","L846A: 8"" scionwood stick, 1 for $6.00^L846B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+785,"
+        Green Kerr        Apple Scionwood            ","L847A: 8"" scionwood stick, 1 for $6.00^L847B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+786,"
+        Grimes Golden        Apple Scionwood            ","L848A: 8"" scionwood stick, 1 for $6.00^L848B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+787,"
+        Haralson        Apple Scionwood            ","L849A: 8"" scionwood stick, 1 for $6.00^L849B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+788,"
+        Harrison        Apple Scionwood            ","L850A: 8"" scionwood stick, 1 for $6.00^L850B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+789,"
+        Harry Masters Jersey        Apple Scionwood            ","L851A: 8"" scionwood stick, 1 for $6.00^L851B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+790,"
+        Hewe’s Virginia Crab        Apple Scionwood            ","L852A: 8"" scionwood stick, 1 for $6.00^L852B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+791,"
+        Honeycrisp        Apple Scionwood            ","L853A: 8"" scionwood stick, 1 for $6.00^L853B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+792,"
+        Honeygold        Apple Scionwood            ","L854A: 8"" scionwood stick, 1 for $6.00^L854B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+793,"
+        Idared        Apple Scionwood            ","L855A: 8"" scionwood stick, 1 for $6.00^L855B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+794,"
+        Jonathan        Apple Scionwood            ","L856A: 8"" scionwood stick, 1 for $6.00^L856B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+795,"
+        Kavanagh        Apple Scionwood            ","L857A: 8"" scionwood stick, 1 for $6.00^L857B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+796,"
+        Keepsake        Apple Scionwood            ","L858A: 8"" scionwood stick, 1 for $6.00^L858B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+797,"
+        King David        Apple Scionwood            ","L859A: 8"" scionwood stick, 1 for $6.00^L859B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+798,"
+        King of Tompkins County        Apple Scionwood            ","L860A: 8"" scionwood stick, 1 for $6.00^L860B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+799,"
+        Kingston Black        Apple Scionwood            ","L861A: 8"" scionwood stick, 1 for $6.00^L861B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+800,"
+        Kola        Apple Scionwood            ","L862A: 8"" scionwood stick, 1 for $6.00^L862B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+801,"
+        Lady        Apple Scionwood            ","L863A: 8"" scionwood stick, 1 for $6.00^L863B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+802,"
+        Liberty        Apple Scionwood            ","L864A: 8"" scionwood stick, 1 for $6.00^L864B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+803,"
+        Lodi        Apple Scionwood            ","L865A: 8"" scionwood stick, 1 for $6.00^L865B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+804,"
+        Macoun        Apple Scionwood            ","L866A: 8"" scionwood stick, 1 for $6.00^L866B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+805,"
+        Martha Crab        Apple Scionwood            ","L867A: 8"" scionwood stick, 1 for $6.00^L867B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+806,"
+        McIntosh        Apple Scionwood            ","L868A: 8"" scionwood stick, 1 for $6.00^L868B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+807,"
+        Medaille d’Or        Apple Scionwood            ","L869A: 8"" scionwood stick, 1 for $6.00^L869B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+808,"
+        Melrose        Apple Scionwood            ","L870A: 8"" scionwood stick, 1 for $6.00^L870B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+809,"
+        Milden        Apple Scionwood            ","L871A: 8"" scionwood stick, 1 for $6.00^L871B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+810,"
+        Milo Gibson        Apple Scionwood            ","L872A: 8"" scionwood stick, 1 for $6.00^L872B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+811,"
+        Mutsu        Apple Scionwood            ","L873A: 8"" scionwood stick, 1 for $6.00^L873B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+812,"
+        Nodhead        Apple Scionwood            ","L874A: 8"" scionwood stick, 1 for $6.00^L874B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+813,"
+        Northern Spy        Apple Scionwood            ","L875A: 8"" scionwood stick, 1 for $6.00^L875B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+814,"
+        Northwestern Greening        Apple Scionwood            ","L876A: 8"" scionwood stick, 1 for $6.00^L876B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+815,"
+        Opalescent        Apple Scionwood            ","L877A: 8"" scionwood stick, 1 for $6.00^L877B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+816,"
+        Orlean’s Reinette        Apple Scionwood            ","L878A: 8"" scionwood stick, 1 for $6.00^L878B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+817,"
+        Otterson        Apple Scionwood            ","L931A: 8"" scionwood stick, 1 for $6.00^L931B: scionwood by the foot (10' minimum), 1 for $5.50"
+818,"
+        Pipsqueak        Apple Scionwood            ","L879A: 8"" scionwood stick, 1 for $6.00^L879B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+819,"
+        Pomme d’Or        Apple Scionwood            ","L880A: 8"" scionwood stick, 1 for $6.00^L880B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+820,"
+        Pomme Grise        Apple Scionwood            ","L881A: 8"" scionwood stick, 1 for $6.00^L881B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+821,"
+        Porter’s Perfection        Apple Scionwood            ","L882A: 8"" scionwood stick, 1 for $6.00^L882B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+822,"
+        Prima        Apple Scionwood            ","L883A: 8"" scionwood stick, 1 for $6.00^L883B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+823,"
+        Priscilla        Apple Scionwood            ","L884A: 8"" scionwood stick, 1 for $6.00^L884B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+824,"
+        Red Astrachan        Apple Scionwood            ","L885A: 8"" scionwood stick, 1 for $6.00^L885B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+825,"
+        Redfield        Apple Scionwood            ","L886A: 8"" scionwood stick, 1 for $6.00^L886B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+826,"
+        Rhode Island Greening        Apple Scionwood            ","L887A: 8"" scionwood stick, 1 for $6.00^L887B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+827,"
+        Ribston Pippin        Apple Scionwood            ","L888A: 8"" scionwood stick, 1 for $6.00^L888B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+828,"
+        Roxbury Russet        Apple Scionwood            ","L889A: 8"" scionwood stick, 1 for $6.00^L889B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+829,"
+        Sand Hill        Apple Scionwood            ","L890A: 8"" scionwood stick, 1 for $6.00^L890B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+830,"
+        Screen Shot        Apple Scionwood            ","L891A: 8"" scionwood stick, 1 for $6.00^L891B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+831,"
+        Shavel Sharp        Apple Scionwood            ","L892A: 8"" scionwood stick, 1 for $6.00^L892B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+832,"
+        Smokehouse        Apple Scionwood            ","L893A: 8"" scionwood stick, 1 for $6.00^L893B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+833,"
+        Spencer        Apple Scionwood            ","L894A: 8"" scionwood stick, 1 for $6.00^L894B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+834,"
+        Spice Sweet        Apple Scionwood            ","L895A: 8"" scionwood stick, 1 for $6.00^L895B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+835,"
+        St. Edmund’s Russet        Apple Scionwood            ","L896A: 8"" scionwood stick, 1 for $6.00^L896B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+836,"
+        St. Lawrence        Apple Scionwood            ","L897A: 8"" scionwood stick, 1 for $6.00^L897B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+837,"
+        Starkey        Apple Scionwood            ","L898A: 8"" scionwood stick, 1 for $6.00^L898B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+838,"
+        State Fair        Apple Scionwood            ","L899A: 8"" scionwood stick, 1 for $6.00^L899B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+839,"
+        Stoke Red        Apple Scionwood            ","L900A: 8"" scionwood stick, 1 for $6.00^L900B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+840,"
+        Sweet Sal        Apple Scionwood            ","L901A: 8"" scionwood stick, 1 for $6.00^L901B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+841,"
+        Sweet Sixteen        Apple Scionwood            ","L902A: 8"" scionwood stick, 1 for $6.00^L902B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+842,"
+        Tater House        Apple Scionwood            ","L903A: 8"" scionwood stick, 1 for $6.00^L903B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+843,"
+        Tolman Sweet        Apple Scionwood            ","L904A: 8"" scionwood stick, 1 for $6.00^L904B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+844,"
+        Trailman        Apple Scionwood            ","L905A: 8"" scionwood stick, 1 for $6.00^L905B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+845,"
+        Wagener        Apple Scionwood            ","L906A: 8"" scionwood stick, 1 for $6.00^L906B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+846,"
+        Wealthy        Apple Scionwood            ","L907A: 8"" scionwood stick, 1 for $6.00^L907B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+847,"
+        Westfield Seek-No-Further        Apple Scionwood            ","L908A: 8"" scionwood stick, 1 for $6.00^L908B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+848,"
+        Whitney Crab        Apple Scionwood            ","L909A: 8"" scionwood stick, 1 for $6.00^L909B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+849,"
+        Wickson        Apple Scionwood            ","L910A: 8"" scionwood stick, 1 for $6.00^L910B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+850,"
+        Williams Pride        Apple Scionwood            ","L911A: 8"" scionwood stick, 1 for $6.00^L911B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+851,"
+        Windham Russet        Apple Scionwood            ","L912A: 8"" scionwood stick, 1 for $6.00^L912B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+852,"
+        Winekist        Apple Scionwood            ","L913A: 8"" scionwood stick, 1 for $6.00^L913B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+853,"
+        Winn Russet        Apple Scionwood            ","L914A: 8"" scionwood stick, 1 for $6.00^L914B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+854,"
+        Winter Banana        Apple Scionwood            ","L915A: 8"" scionwood stick, 1 for $6.00^L915B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+855,"
+        Wolf River        Apple Scionwood            ","L916A: 8"" scionwood stick, 1 for $6.00^L916B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+856,"
+        Yellow Bellflower        Apple Scionwood            ","L917A: 8"" scionwood stick, 1 for $6.00^L917B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+857,"
+        Bartlett        Pear Scionwood            ","L918A: 8"" scionwood stick, 1 for $6.00^L918B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+858,"
+        Bosc        Pear Scionwood            ","L919A: 8"" scionwood stick, 1 for $6.00^L919B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+859,"
+        Comptesse Clara Frijs        Pear Scionwood            ","L920A: 8"" scionwood stick, 1 for $6.00^L920B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+860,"
+        Luscious        Pear Scionwood            ","L921A: 8"" scionwood stick, 1 for $6.00^L921B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+861,"
+        Nova        Pear Scionwood            ","L922A: 8"" scionwood stick, 1 for $6.00^L922B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+862,"
+        Patten        Pear Scionwood            ","L923A: 8"" scionwood stick, 1 for $6.00^L923B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+863,"
+        Seckel        Pear Scionwood            ","L924A: 8"" scionwood stick, 1 for $6.00^L924B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+864,"
+        Stacyville        Pear Scionwood            ","L925A: 8"" scionwood stick, 1 for $6.00^L925B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+865,"
+        La Crescent        Plum Scionwood            ","L926A: 8"" scionwood stick, 1 for $6.00^L926B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+866,"
+        South Dakota        Plum Scionwood            ","L927A: 8"" scionwood stick, 1 for $6.00^L927B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+867,"
+        Toka        Plum Scionwood            ","L928A: 8"" scionwood stick, 1 for $6.00^L928B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+868,"
+        Underwood        Plum Scionwood            ","L929A: 8"" scionwood stick, 1 for $6.00^L929B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+869,"
+        Waneta        Plum Scionwood            ","L930A: 8"" scionwood stick, 1 for $6.00^L930B: scionwood by the foot (10' minimum), 1 ft for $5.50"
+870,"
+        ‘Prairie Expedition’        American Elm            ",456A: 1 for $36.00
+871,"
+        ‘Princeton’        American Elm            ",457A: 1 for $36.00
+872,"
+        Paper Birch                    ",447A: 1 for $19.00
+873,"
+        Sweet Birch                    ",446A: 1 for $20.75
+874,"
+        Ginkgo                    ",459A: 1 for $18.00
+875,"
+        Honeylocust                    ",448A: 1 for $19.00
+876,"
+        Eastern Hophornbeam                    ",449A: 1 for $21.00
+877,"
+        American Linden                    ",455A: 1 for $20.00
+878,"
+        Sugar Maple                    ",445A: 1 for $17.50
+879,"
+        Black Oak                    ",453A: 1 for $16.00
+880,"
+        Bur Oak                    ",452A: 1 for $21.00
+881,"
+        Swamp White Oak                    ",451A: 1 for $21.00
+882,"
+        White Oak                    ",450A: 1 for $21.00
+883,"
+        Tuliptree                    ",444A: 1 for $21.00
+884,"
+        Niobe Weeping Willow                    ",454A: 1 for $18.75
+885,"
+        Carolina Allspice                    ",480A: 1 for $19.25
+886,"
+        Bayberry                    ",458A: 1 for $18.75
+887,"
+        Beach Plum                    ",515A: 1 for $18.75^515B: 5 for $80.00
+888,"
+        Buttonbush                    ",481A: 1 for $19.00
+889,"
+        ‘Brilliantissima’        Chokeberry            ",474A: 1 for $18.75
+890,"
+        ‘Viking’ Black Chokeberry                    ",476A: 1 for $18.75
+891,"
+        Black Chokeberry Seedling                    ",477A: 1 for $18.75^477B: 5 for $82.50
+892,"
+        Red Chokeberry Seedling                    ",475A: 1 for $18.75
+893,"
+        ‘Brandywine’        Crabapple            ","242C: on M111 semi-dwarfing stock, 1 for $38.50"
+894,"
+        ‘Dolgo’        Crabapple            ","244C: on M111 semi-dwarfing stock, 1 for $38.50"
+895,"
+        Blanche Ames        Crabapple            ","241C: on M111 semi-dwarfing stock, 1 for $38.50"
+896,"
+        Coralburst        Crabapple            ","243C: on M111 semi-dwarfing stock, 1 for $38.50"
+897,"
+        Fountain        Crabapple            ","245C: on M111 semi-dwarfing stock, 1 for $38.50"
+898,"
+        Golden Raindrops        Crabapple            ","246C: on M111 semi-dwarfing stock, 1 for $38.50"
+899,"
+        Hatchet Mountain        Crabapple            ","247C: on M111 semi-dwarfing stock, 1 for $38.50"
+900,"
+        Lemoine        Crabapple            ","248C: on M111 semi-dwarfing stock, 1 for $38.50"
+901,"
+        Sargent, Mt. Auburn strain        Crabapple            ","249C: on M111 semi-dwarfing stock, 1 for $38.50"
+902,"
+        Solon Hotel        Crabapple            ","250C: on M111 semi-dwarfing stock, 1 for $38.50"
+903,"
+        Waterville Crab        Crabapple            ","251C: on M111 semi-dwarfing stock, 1 for $38.50"
+904,"
+        Gray Dogwood                    ",487A: 1 for $17.00
+905,"
+        Pagoda Dogwood                    ",484A: 1 for $20.50
+906,"
+        Redosier Dogwood                    ",488A: 1 for $18.00^488B: 5 for $80.00
+907,"
+        Silky Dogwood                    ",485A: 1 for $18.50
+908,"
+        Adams No. 1        Elderberry            ",378A: 1 for $22.00
+909,"
+        Bob Gordon        Elderberry            ",379A: 1 for $22.00
+910,"
+        Elderberry Seedling                    ",386A: 1 for $22.00
+911,"
+        Goodbarn        Elderberry            ",380A: 1 for $22.00
+912,"
+        Johns        Elderberry            ",381A: 1 for $22.00
+913,"
+        Korsor        Elderberry            ",387A: 1 for $22.00
+914,"
+        Marge        Elderberry            ",388A: 1 for $22.00
+915,"
+        Mattawamkeag        Elderberry            ",390A: 1 for $22.00
+916,"
+        Nova        Elderberry            ",382A: 1 for $22.00
+917,"
+        Samyl        Elderberry            ",389A: 1 for $22.00
+918,"
+        Scotia        Elderberry            ",383A: 1 for $22.00
+919,"
+        Wyldewood        Elderberry            ",384A: 1 for $22.00
+920,"
+        York        Elderberry            ",385A: 1 for $22.00
+921,"
+        ‘Northern Gold’ Forsythia                    ",498A: 1 for $18.25
+922,"
+        Northern Bush Honeysuckle                    ",496A: 1 for $18.75
+923,"
+        ‘Michigan’ Black Huckleberry                    ",377A: 1 for $18.00
+924,"
+        ‘Alice’        Hydrangea            ",500A: 1 for $23.50
+925,"
+        ‘Regent’ Juneberry                    ",472A: 1 for $19.25
+926,"
+        ‘Minuet’        Lilac            ",557A: 1 for $21.00
+927,"
+        ‘Monge’        Lilac            ",556A: 1 for $21.00
+928,"
+        ‘Mount Baker’        Lilac            ",553A: 1 for $21.00
+929,"
+        ‘Pocahontas’        Lilac            ",554A: 1 for $21.00
+930,"
+        Common Purple        Lilac            ",555A: 1 for $21.00
+931,"
+        ‘Blizzard’ Mockorange                    ",514A: 1 for $17.00
+932,"
+        ‘Illinois Everbearing’ Mulberry                    ",512A: 1 for $44.00
+933,"
+        Nanking Cherry                    ",516A: 1 for $17.75
+934,"
+        ‘Aromatnaya’        Quince            ",491A: 1 for $45.00
+935,"
+        ‘Pineapple’        Quince            ",493A: 1 for $45.00
+936,"
+        ‘Smyrna’        Quince            ",492A: 1 for $45.00
+937,"
+        Redbud                    ",482A: 1 for $21.00
+938,"
+        ‘Belle de Crecy’        Rose            ",523A: 1 for $22.75
+939,"
+        ‘Blanc Double de Coubert’        Rose            ",533A: 1 for $22.75
+940,"
+        ‘Fantin Latour’        Rose            ",522A: 1 for $22.75
+941,"
+        ‘Lavender Bouquet’        Rose            ",528A: 1 for $22.75
+942,"
+        ‘Moje Hammarberg’        Rose            ",534A: 1 for $22.75
+943,"
+        ‘Officinalis’ Apothecary’s Rose                    ",524A: 1 for $22.75
+944,"
+        ‘Oscar Peterson’        Rose            ",529A: 1 for $22.75
+945,"
+        ‘Pierette Pavement’        Rose            ",535A: 1 for $22.75
+946,"
+        ‘Polareis’        Rose            ",536A: 1 for $22.75
+947,"
+        ‘Pristine Pavement’        Rose            ",537A: 1 for $22.75
+948,"
+        ‘Quadra’        Rose            ",530A: 1 for $22.75
+949,"
+        ‘Scharlachglut’        Rose            ",525A: 1 for $22.75
+950,"
+        ‘Tuscany Superb’        Rose            ",526A: 1 for $22.75
+951,"
+        ‘Versicolor’ Rosa Mundi        Rose            ",527A: 1 for $22.75
+952,"
+        ‘Williams Double Yellow’        Rose            ",532A: 1 for $22.75
+953,"
+        Ramblin’ Red®        Rose            ",531A: 1 for $22.75
+954,"
+        Allegheny Serviceberry                    ",473A: 1 for $18.75
+955,"
+        American Smoketree                    ",489A: 1 for $21.75
+956,"
+        White Snowberry                    ",552A: 1 for $19.00
+957,"
+        Spicebush                    ",504A: 1 for $20.50
+958,"
+        Steeplebush                    ",551A: 1 for $19.25
+959,"
+        Fragrant Sumac                    ",517A: 1 for $18.75
+960,"
+        ‘Ruby Spice’ Summersweet                    ",483A: 1 for $18.50
+961,"
+        ‘Shasta’ Doublefile Viburnum                    ",564A: 1 for $17.00
+962,"
+        Black Haw        Viburnum            ",565A: 1 for $19.00
+963,"
+        Highbush Cranberry Seedling        Viburnum            ",563A: 1 for $19.00
+964,"
+        Nannyberry        Viburnum            ",562A: 1 for $18.75
+965,"
+        Northern Arrowwood        Viburnum            ",561A: 1 for $18.50
+966,"
+        Northern Wild Raisin        Viburnum            ",560A: 1 for $23.00
+967,"
+        ‘Henry’s Garnet’ Virginia Sweetspire                    ",503A: 1 for $18.50
+968,"
+        ‘Red Prince’ Weigela                    ",566A: 1 for $19.00
+969,"
+        ‘Mt. Aso’ Japanese Pink Pussy Willow                    ",548A: 1 for $16.75
+970,"
+        Basket Willow                    ",545A: 1 for $16.75
+971,"
+        Black Pussy Willow                    ",547A: 1 for $16.75
+972,"
+        Blue Leaf Arctic Willow                    ",549A: 1 for $16.75
+973,"
+        Coral Bark Willow                    ",546A: 1 for $16.75
+974,"
+        Japanese Fantail Willow                    ",550A: 1 for $16.75
+975,"
+        ‘Afterglow’        Winterberry            ",505A: 1 for $19.00
+976,"
+        ‘Jim Dandy’        Winterberry            ",502A: 1 for $19.00
+977,"
+        ‘Red Sprite’        Winterberry            ",501A: 1 for $19.00
+978,"
+        Witch Hazel                    ",499A: 1 for $18.25
+979,"
+        Albion        Everbearing Strawberry            ",L392A: 50 for $26.00
+980,"
+        Mara des Bois        Everbearing Strawberry            ",L393A: 50 for $26.00
+981,"
+        Seascape        Everbearing Strawberry            ",L394A: 50 for $26.00
+982,"
+        AC Wendy        June-bearing Strawberry            ",L395A: 50 for $26.00
+983,"
+        Allstar        June-bearing Strawberry            ",L396A: 50 for $26.00
+984,"
+        Honeoye        June-bearing Strawberry            ",L397A: 50 for $26.00
+985,"
+        Sparkle        June-bearing Strawberry            ",L398A: 50 for $26.00
+986,"
+        Agri-gel        Supply            ","L622A: 1/2 oz, 1 for $4.00"
+987,"
+        ‘Lucifer’        Crocosmia            ",L769A: 10 for $9.00^L769B: 20 for $15.50^L769C: 50 for $35.00
+988,"
+        Pompon Surprise Dahlia Mix                    ",L771A: 3 for $18.25^L771B: 6 for $31.75
+989,"
+        Purple Dinnerplate Surprise Mix        Dahlia            ",L770A: 3 for $18.00^L770B: 6 for $31.25
+990,"
+        Fragrant Gladiolus                    ",L774A: 20 for $6.25^L774B: 40 for $11.00^L774C: 60 for $14.50
+991,"
+        Large-Flowering Glad Mix        Gladiolus            ",L772A: 10 for $5.25^L772B: 20 for $9.00^L772C: 50 for $20.50
+992,"
+        Nanus Glad Mix        Gladiolus            ",L773A: 12 for $7.75^L773B: 24 for $13.50
+993,"
+        Dark Red        Tuberous Begonia            ",L767A: 3 for $14.00^L767B: 6 for $26.75^L767C: 12 for $48.00
+994,"
+        Orange        Tuberous Begonia            ",L766A: 3 for $14.00^L766B: 6 for $26.75^L766C: 12 for $48.00
+995,"
+        Yellow and Red Picotee        Tuberous Begonia            ",L768A: 3 for $14.00^L768B: 6 for $26.75^L768C: 12 for $48.00
+996,"
+        Groundnut                    ",L422A: 10 for $17.00
+997,"
+        ‘Dropmore Scarlet’ Honeysuckle                    ",428A: 1 for $18.75
+998,"
+        ‘Cascade’        Hops            ",L423A: 3 for $21.25
+999,"
+        ‘Chinook’        Hops            ",L424A: 3 for $21.25
+1000,"
+        ‘Nugget’        Hops            ",L425A: 3 for $21.25

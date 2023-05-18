@@ -1,0 +1,1 @@
+['Adams\n7.25', 'Allen\n6.85', 'Ashland\n7.00', 'Ashtabula\n6.75', 'Athens\n7.25', 'Auglaize\n7.25', 'Belmont\n7.25', 'Brown\n7.25', 'Butler\n6.50', 'Carroll\n6.75']

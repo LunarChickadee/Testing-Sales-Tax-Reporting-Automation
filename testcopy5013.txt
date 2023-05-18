@@ -1,0 +1,1 @@
+['Trumbull\n6.75', 'Tuscarawas\n6.75', 'Union\n7.00', 'Union (COTA)\n7.50', 'Van Wert\n7.25', 'Vinton\n7.25', 'Warren\n6.75', 'Washington\n7.25', 'Wayne\n6.50', 'Williams\n7.25']

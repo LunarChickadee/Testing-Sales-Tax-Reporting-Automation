@@ -1,0 +1,1 @@
+['Champaign\n7.25', 'Clark\n7.25', 'Clermont\n6.75', 'Clinton\n7.25', 'Columbiana\n7.25', 'Coshocton\n7.75', 'Crawford\n7.25', 'Cuyahoga\n8.00', 'Darke\n7.25', 'Defiance\n6.75']

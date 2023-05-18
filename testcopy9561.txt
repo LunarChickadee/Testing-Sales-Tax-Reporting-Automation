@@ -1,0 +1,1 @@
+['Preble\n7.25', 'Putnam\n7.00', 'Richland\n7.00', 'Ross\n7.25', 'Sandusky\n7.25', 'Scioto\n7.25', 'Seneca\n7.25', 'Shelby\n7.25', 'Stark\n6.50', 'Summit\n6.75']
