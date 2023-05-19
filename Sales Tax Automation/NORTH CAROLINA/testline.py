@@ -1,4 +1,4 @@
-import pyautogui
+        0.00    0.000.00        0.00    0.00        0.00    0.00        0.00    0import pyautogui
 import time 
 import clipboard
 
