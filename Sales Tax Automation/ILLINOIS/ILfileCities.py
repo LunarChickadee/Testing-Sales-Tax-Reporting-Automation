@@ -4,17 +4,20 @@ import time
 import re
 from datetime import date
 import os
+import random
 
 ###note you must be in the "continue editing" part of a saved  entry for this to work
 ######SETUP
     #left tab, master taxes by state
     #cursor on city names final
-
+                        
     #right tab IL Tax
     #cursor in Filter
 
     #Start Program, MAKE SURE YOUR ONE TAXSHET
 today = date.today()
+
+wait = 3
 
 filename = "ILtoAdd"+str(today)
 addfile = open(filename,'a')
@@ -23,8 +26,8 @@ addfile = open(filename,'a')
 time.sleep(4)
 
 
-#Number of columns to look through
-rows = 1
+#Number of rows to look through
+rows = 71
 
 #set taxsheet x and y
 taxsheetX =1667
@@ -62,6 +65,9 @@ for row in range(rows):
     #Remove spaces from weirdos
     if text_from_table == "De Land":
         text_from_table = "Deland"
+
+    if text_from_table == "South Elgin Kane":
+        text_from_table == "South Elgin"
 
     if text_from_table == 'La Grange':
         text_from_table = "Lagrange"
@@ -107,7 +113,7 @@ for row in range(rows):
     pyautogui.keyUp('fn')
     pyautogui.typewrite(text_from_table)
     pyautogui.hotkey('enter')
-    time.sleep(7)
+    time.sleep(wait)
     pyautogui.hotkey('tab')
     time.sleep(0.5)
     pyautogui.hotkey('command', 'a')
@@ -210,30 +216,30 @@ for row in range(rows):
         time.sleep(2)
         pyautogui.press('tab',presses=amount_press,interval=0.1)
         pyautogui.hotkey('enter')
-        time.sleep(7)
+        time.sleep(wait)
         
         #yorkville has fewer tabs because it's the last one on the list
         if text_from_table == "Yorkville":
             pyautogui.press('tab',presses=11,interval=0.1)
             pyautogui.write(taxable_amt)
             pyautogui.hotkey('tab')
-            time.sleep(7)
+            time.sleep(wait)
             pyautogui.keyDown('shift')
             pyautogui.press('tab',presses=6,interval=0.1)
             pyautogui.keyUp('shift')
             pyautogui.hotkey('enter')
-            time.sleep(7)
+            time.sleep(wait)
         else:
             pyautogui.press('tab',presses=13,interval=0.1)
             pyautogui.keyUp('fn')
             pyautogui.typewrite(taxable_amt)
             pyautogui.hotkey('tab')
-            time.sleep(7)
+            time.sleep(wait)
             pyautogui.keyDown('shift')
             pyautogui.press('tab',presses=8,interval=0.1)
             pyautogui.keyUp('shift')
             pyautogui.hotkey('enter')
-            time.sleep(7)
+            time.sleep(wait)
         
         #get back to filter
         pyautogui.press('tab',presses=5,interval=0.1)

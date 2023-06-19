@@ -6,7 +6,7 @@ time.sleep(7)
 
 #start on taxable header in VA auto
 #test amount
-rows = 133
+rows = 135
 
 #full amount
 #rows = 133
