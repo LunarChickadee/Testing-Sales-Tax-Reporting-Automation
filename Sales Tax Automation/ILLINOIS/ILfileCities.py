@@ -27,7 +27,7 @@ time.sleep(4)
 
 
 #Number of rows to look through
-rows = 71
+rows = 34
 
 #set taxsheet x and y
 taxsheetX =1667
@@ -52,7 +52,8 @@ for row in range(rows):
     amount_press = 12
     print(row)
     #copy current       value and put it in the filter
-
+    pyautogui.keyUp("shift")
+    pyautogui.keyUp("ctrl")
     pyautogui.hotkey("down")
     pyautogui.hotkey('command', 'c')
     pyautogui.hotkey('command', 'c')
@@ -181,7 +182,7 @@ for row in range(rows):
         muni_list[0] != "DeKalb" and text_from_table != "La Salle" and
         text_from_table != "Godfrey" and text_from_table != "McLean" and
         text_from_table != "Peoria" and text_from_table != "Barrington Lake" and
-        text_from_table !="Lake Villa"
+        text_from_table !="Lake Villa" and text_from_table != "Orland Park Cook"
         ):
 
         final_dict[text_from_table] = [muni_list]
@@ -198,7 +199,8 @@ for row in range(rows):
             text_from_table == "La Salle" or 
             text_from_table == 'Godfrey' or 
             text_from_table == "Mclean" or
-            text_from_table == 'Lake Villa'
+            text_from_table == 'Lake Villa' or
+            text_from_table == "Orland Park Cook"
             ):
 
             amount_press = 14
