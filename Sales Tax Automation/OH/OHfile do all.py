@@ -17,6 +17,9 @@ tab_list = ['0','2','4','6','8','10','12','14','16','18','22','2','4','6','8','1
     #test that
 for row in range(rows):
     #print(row_counter)
+    pyautogui.keyUp("ctrl")
+    pyautogui.keyUp("shift")
+
     pyautogui.hotkey('down',interval=0.05)
     pyautogui.hotkey('command','c',interval=0.05)
     taxable = clipboard.paste()
@@ -37,6 +40,7 @@ for row in range(rows):
     #switch to webpage
     pyautogui.hotkey("ctrl","tab", interval=0.05)
     time.sleep(0.3)
+    pyautogui.keyUp("ctrl")
 
     #test if it's the start round
     if row_counter != 0:
@@ -125,7 +129,7 @@ for row in range(rows):
 
 
     pyautogui.hotkey('ctrl','shift','tab')
-    time.sleep(0.5)
+    time.sleep(0.3)
     row_counter += 1
 
     if row_counter >= len(tab_list):

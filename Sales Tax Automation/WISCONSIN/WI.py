@@ -9,7 +9,7 @@ import time
 #and that you have a pasted list of what counties are currently there
 time.sleep(5)
 
-values = "skip,696.31,165,869.57,230.9,skip,402.25,skip,166.25,skip,302.4,skip,3495.7,19,skip,1079.96,242.6,439.58,skip,skip,19.5,195.34,skip,41,skip,27,skip,skip,skip,skip,skip,262.95,skip,244.45,skip,849.65,25.5,83.5,83,skip,skip,0,22.2,skip,78.2,802.44,276.97,skip,30.5,skip,310.58,714.5,231.99,242.6,100.35,40.75,skip,skip,1441.52,75.6,207.57,skip,135.25,16,skip,56.5"
+values = "skip,skip,121,93.25,31.25,skip,skip,26.25,skip,skip,skip,skip,251.11,39.25,11.35,skip,12.93,skip,skip,skip,skip,70.92,skip,skip,skip,skip,140.5,skip,skip,skip,37.37,skip,18.75,skip,skip,25.25,skip,65.95,skip,skip,0,0,skip,skip,skip,skip,33.5,skip,64.5,16.25,skip,64,skip,skip,59.25,skip,skip,skip,14.25,skip,44,skip,123.25,35.5,skip,skip"
 usable_values = values.split(",")
 
 for value in usable_values:

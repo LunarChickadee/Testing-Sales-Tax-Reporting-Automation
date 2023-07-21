@@ -4,7 +4,7 @@ import time
 
 time.sleep(7)
 
-#start on taxable header in VA auto
+#start on gross header in VA auto
 #test amount
 rows = 135
 
@@ -12,6 +12,7 @@ rows = 135
 #rows = 133
 
 for row in range(rows):
+    pyautogui.keyUp("shift")
     pyautogui.hotkey('down',interval=0.05)
     pyautogui.hotkey('command','c',interval=0.05)
     time.sleep(0.05)

@@ -16,6 +16,7 @@ for row in range(rows):
     
     
     #copy current       value and put it in the filter
+    pyautogui.keyUp("shift")
     pyautogui.hotkey("down",interval=0.03)
     pyautogui.hotkey('command', 'c')
     pyautogui.hotkey('command', 'c')
